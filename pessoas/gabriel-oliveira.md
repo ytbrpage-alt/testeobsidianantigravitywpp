@@ -12,15 +12,15 @@ ultima_conversa: 2026-01-10T12:39:02-03:00
 
 ## 📋 Resumo
 
-Um relacionamento comercial onde João é um cliente recorrente de Gabriel para compra de cannabis. João valoriza essa conexão e tenta construir um relacionamento mais próximo, enquanto Gabriel mantém o foco em seus interesses e segurança.
+Relação comercial entre João e um fornecedor. João busca favorecer o relacionamento com Gabriel, mas este se mantém cauteloso e focado em seus próprios interesses. Há um histórico de negócios e um potencial para futuras transações, dependendo da disponibilidade e dos termos oferecidos.
 
 ## 💼 Profissional
 
-- **Profissão:** Possivelmente vendedor/fornecedor de cannabis (inferido pela conversa sobre 'g', 'flor', 'ice', 'Colômbia')
+- **Profissão:** Vendedor/Fornecedor (possivelmente de cannabis)
 
 ## 🗣️ Como João Age
 
-Informal, amigável, direto, negocia preços, busca favores e parcerias, demonstra preferência por fazer negócios com ele, mas procura alternativas quando não consegue o que quer.
+Informal, direto, busca parceria e demonstra preferência por negociar com Gabriel. Se mostra amigável e tenta estabelecer uma relação de confiança, oferecendo oportunidades.
 
 ## 💭 Assuntos Frequentes
 
@@ -29,15 +29,16 @@ Informal, amigável, direto, negocia preços, busca favores e parcerias, demonst
 
 ## ⚠️ Lembrar
 
-- [ ] Manter contato regular para verificar a disponibilidade dos produtos, negociar preços de forma justa, entender as prioridades de Gabriel em relação a lucro e risco.
+- [ ] Sua disponibilidade é incerta. Precisa confirmar disponibilidade antes de fazer planos.
+- [ ] Lista de preços
 
 ## 📝 Observações
 
-> A conversa revela que João tem outros contatos para comprar cannabis, mas ele parece preferir comprar de Gabriel. Gabriel está preocupado com sua segurança e lucratividade, o que pode influenciar suas decisões de venda. João tentou incluir Gabriel em uma iniciativa social/doação, possivelmente para obter um preço melhor ou criar um senso de parceria.
+> A comunicação entre eles é bastante direta e objetiva, focada em negócios. Ambos parecem estar cientes dos riscos envolvidos na atividade. A mídia trocada provavelmente é de produtos ou localização.
 
-> João parece estar expandindo seus negócios, buscando fornecedores em maior escala (mencionado 'Toledo').
+> A insistência de João pode ser vista como importunação, e a falta de clareza sobre os produtos pode gerar desconfiança.
 
-> Ambos parecem estar cientes dos riscos associados ao comércio de substâncias ilegais.
+> João menciona 'negócios fortes' para Toledo, indicando expansão ou novas operações.
 
 ---
 

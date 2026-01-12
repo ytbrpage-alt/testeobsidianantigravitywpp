@@ -1,10 +1,10 @@
-# Joao Empresa 👔
+# Joao Empresa 💼
 
-#pessoa #trabalho
+#pessoa #negocio
 
 ---
 tipo: pessoa
-categoria: trabalho
+categoria: negocio
 importancia: 8/10
 numero: undefined
 ultima_conversa: 2026-01-11T20:49:15-03:00
@@ -12,15 +12,11 @@ ultima_conversa: 2026-01-11T20:49:15-03:00
 
 ## 📋 Resumo
 
-Relacionamento estritamente profissional. João delega tarefas específicas relacionadas aos seus negócios, fornecendo instruções detalhadas. A outra pessoa (Joao Empresa) parece ser responsável por executar essas tarefas, possivelmente um desenvolvedor web/assistente virtual.
-
-## 💼 Profissional
-
-- **Empresa:** Múltiplas: Stellar Influence, SantinAviation, Aerovida, Atlas
+Um relacionamento profissional onde João delega tarefas de desenvolvimento web e marketing digital para 'Joao Empresa'. A comunicação é focada em instruções e especificações técnicas, indicando uma colaboração contínua em projetos digitais. 'Joao Empresa' parece ser fundamental para a presença online e estratégia de negócios de João.
 
 ## 🗣️ Como João Age
 
-Profissional, direto, requisitando tarefas e fornecendo informações específicas para trabalho.
+profissional, diretivo, requisitório
 
 ## 💭 Assuntos Frequentes
 
@@ -28,33 +24,23 @@ Profissional, direto, requisitando tarefas e fornecendo informações específic
 - família
 - saúde
 
-## ⚠️ Lembrar
-
-- [ ] Reunião com Márcio amanhã às 15h
-- [ ] Reunião com Lucas amanhã às 12h
-- [ ] Reunião com a G Bro hoje às 23:29
-
 ## ❗ Pendências
 
-- [ ] Atualizar website da Stellar Influence
-- [ ] Alterar informações sobre aeronaves no website
-- [ ] Criar slug para Santin Aeroparts e integrar Whatsapp
-- [ ] Adicionar o Ecossistema a Atlas com link para Whatsapp
-- [ ] Implementar tags do Google
-- [ ] Criar vários tipos de perfis para site de saúde
+- [ ] Implementar as mudanças e adições no website/landing pages conforme as instruções de João.
+- [ ] Criar vários tipos de perfis no site com diferentes características.
+- [ ] Configurar a integração com WhatsApp para a Atlas.
+- [ ] Implementar o código do Google Tag Manager.
 
 ## 📝 Observações
 
-> João está envolvido em diversos negócios/projetos, incluindo influência digital, aviação e saúde.
+> A conversa é unilateral, com João fornecendo instruções e informações detalhadas.
 
-> João utiliza um sistema chamado JARVIS para gerenciamento de tarefas e informações.
+> João parece estar envolvido em vários projetos diferentes simultaneamente, incluindo aviação, saúde e tecnologia.
 
-> A comunicação é estritamente profissional e orientada a tarefas.
+> O uso repetitivo das mensagens do Jarvis Ultimate sugere que João está utilizando um sistema automatizado para gerenciar suas tarefas e compromissos.
 
-> Há um padrão de envio de números de telefone, possivelmente para contato de negócios ou leads.
-
-> João está trabalhando em um site/plataforma relacionada à área da saúde, com diversas especialidades e tipos de usuários.
+> João está preocupado com a performance de seus vídeos e a percepção de que seus seguidores são comprados.
 
 ---
 
-*Última conversa: 6 hours ago*
+*Última conversa: 7 hours ago*

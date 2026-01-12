@@ -1,10 +1,10 @@
-# Dr Luma 👔
+# Dr Luma 💼
 
-#pessoa #trabalho
+#pessoa #negocio
 
 ---
 tipo: pessoa
-categoria: trabalho
+categoria: negocio
 importancia: 9/10
 numero: undefined
 ultima_conversa: 2026-01-09T13:06:23-03:00
@@ -12,16 +12,16 @@ ultima_conversa: 2026-01-09T13:06:23-03:00
 
 ## 📋 Resumo
 
-Luma é uma parceira profissional de João no setor de saúde, com forte conhecimento do HOESP e da administração pública. Ela oferece conselhos estratégicos e colabora ativamente em seus projetos, sendo uma figura importante para o sucesso de suas iniciativas na área da saúde.
+João e Luma têm um relacionamento de negócios colaborativo e estratégico. Luma oferece conselhos, informações e conexões valiosas para ajudar João a ter sucesso em seus empreendimentos na área da saúde. Existe uma relação de confiança e respeito mútuo.
 
 ## 💼 Profissional
 
-- **Profissão:** Médica (presumivelmente)
-- **Empresa:** HOESP (Hospital Oeste do Paraná) e/ou outro local de saúde não especificado
+- **Profissão:** Médica (Dr)
+- **Empresa:** HOESP (Hospital Oeste do Paraná)
 
 ## 🗣️ Como João Age
 
-Respeitoso, colaborativo, confia em sua opinião, solicita conselhos, compartilha informações de trabalho e projetos.
+Profissional, colaborativo, aberto a sugestões, solicita ajuda e informações, compartilha conquistas e planos. Parece haver um nível de confiança e respeito mútuo.
 
 ## 💭 Assuntos Frequentes
 
@@ -30,24 +30,25 @@ Respeitoso, colaborativo, confia em sua opinião, solicita conselhos, compartilh
 
 ## ⚠️ Lembrar
 
-- [ ] Horário com a secretaria de saúde e Flexicel (8:30h)
-- [ ] Avisar o secretário sobre o horário livre para Luma encaixar
-- [ ] Acompanhar a reestruturação dos cuidadores e a produção dos jalequinhos
-- [ ] Planejamento e execução do evento de saúde no lago
-- [ ] A chegada de Fernando
+- [ ] Avisar Luma sobre horários livres em sua agenda (reunião com o secretário)
+- [ ] Compartilhar o planejamento do evento no lago com Luma
+- [ ] Manter Luma informada sobre o progresso dos projetos
+- [ ] Considerar as sugestões de Luma sobre os jalequinhos para os cuidadores
 
 ## ❗ Pendências
 
-- [ ] Enviar a Luma o planejamento do evento de saúde no lago
-- [ ] Resolver a situação de Henrique (contexto desconhecido)
+- [ ] Enviar o planejamento do evento no lago para Luma
+- [ ] Avisar Luma sobre horários da reunião com o secretário
 
 ## 📝 Observações
 
-> Luma tem contatos importantes no HOESP (Bruna Longo, Juliana)
+> Luma possui boas conexões dentro do HOESP e na prefeitura, o que a torna uma aliada valiosa para João.
 
-> Luma tem boa articulação com a prefeitura
+> Ela tem um bom conhecimento de marketing e oferece insights valiosos sobre como promover os serviços de saúde de João.
 
-> João valoriza muito a opinião e o conhecimento de Luma
+> A conversa sobre a enfermeira Bruna Longo sugere que Luma está atenta a possíveis ameaças ou mudanças no HOESP que possam afetar os negócios de João.
+
+> Luma parece ter influencia nas decisões e no cotidiano do hospital.
 
 ---
 

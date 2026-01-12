@@ -12,15 +12,15 @@ ultima_conversa: 2026-01-12T00:25:50-03:00
 
 ## 📋 Resumo
 
-João e Gabriela têm um relacionamento romântico intenso, marcado por afeto e comunicação constante. Gabriela demonstra insegurança em relação ao futuro da relação e medo de se apegar demais, enquanto João parece demonstrar carinho e atenção. A presença do filho de Gabriela, Nicolas, adiciona uma camada de responsabilidade e consideração ao relacionamento.
+É um relacionamento romântico intenso e carinhoso, com demonstrações frequentes de afeto. No entanto, Gabriela parece estar tentando manter uma certa distância emocional por medo de se machucar, enquanto João demonstra estar profundamente envolvido e apaixonado. Existe um filho de Gabriela, Nicolas, que também parece ser uma prioridade para ela.
 
 ## 💼 Profissional
 
-- **Profissão:** Loja (mencionado que precisa estar na loja às 7h)
+- **Profissão:** Trabalha em loja (mencionado que precisa estar na loja às 7h)
 
 ## 🗣️ Como João Age
 
-João se comporta de forma muito carinhosa e atenciosa com Gabriela. Ele demonstra afeto com apelidos carinhosos, envia fotos e vídeos, e se preocupa com ela e com o bem-estar do filho dela.
+Extremamente carinhoso, atencioso, mandando muitos vídeos e fotos, demonstra afeto e preocupação. Parece estar muito apaixonado.
 
 ## 💭 Assuntos Frequentes
 
@@ -29,13 +29,23 @@ João se comporta de forma muito carinhosa e atenciosa com Gabriela. Ele demonst
 
 ## ⚠️ Lembrar
 
-- [ ] Aniversário de Gabriela (ela pediu um gato persa)
-- [ ] Horário de trabalho dela (7h na loja)
+- [ ] Aniversário de Gabriela (ela quer um gato persa)
+- [ ] O horário de trabalho dela (7h na loja)
+
+## ❗ Pendências
+
+- [ ] Possivelmente comprar o gato persa para o aniversário de Gabriela
 
 ## 📝 Observações
 
-> Gabriela tem um filho chamado Nicolas, e João parece ter um bom relacionamento com ele. Gabriela parece insegura em relação ao relacionamento e demonstra medo de se apegar demais e sofrer. A grande quantidade de mídias trocadas sugere uma comunicação visual frequente e importante para o relacionamento. O fato de Gabriela não gostar de sair sozinha pode indicar dependência emocional ou social. Há uma dinâmica de dar um tempo no relacionamento para evitar o apego excessivo.
+> Gabriela tem um filho chamado Nicolas, pelo qual ela demonstra grande preocupação.
+
+> Ela expressa insegurança em relação ao corpo.
+
+> Ela parece ter receio de se apegar demais a João e sofrer, indicando uma possível vulnerabilidade emocional ou experiências passadas.
+
+> Há uma dinâmica de dar um tempo no relacionamento para evitar o apego.
 
 ---
 
-*Última conversa: 2 hours ago*
+*Última conversa: 3 hours ago*

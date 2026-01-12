@@ -40,4 +40,4 @@ João se comporta de forma bem informal, brincalhona e às vezes um pouco rude. 
 
 ---
 
-*Última conversa: 16 hours ago*
+*Última conversa: 17 hours ago*

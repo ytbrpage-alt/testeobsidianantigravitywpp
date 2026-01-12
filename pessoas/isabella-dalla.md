@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-09T09:26:09-03:00
 
 ## 📋 Resumo
 
-João e Isabella têm um forte laço de amizade e parceria profissional. Isabella é uma amiga próxima e confiável, que apoia João em seus projetos e se preocupa com seu bem-estar. João valoriza muito a presença e ajuda de Isabella em sua vida.
+Isabella é uma amiga próxima e apoiadora de João, demonstrando carinho e preocupação com seu bem-estar. Eles compartilham assuntos relacionados a trabalho, projetos sociais e vida pessoal. João valoriza a amizade e o apoio de Isabella.
 
 ## 🗣️ Como João Age
 
-carinhoso, atencioso, preocupado, colaborativo, um pouco dependente da ajuda dela, as vezes um pouco ansioso.
+Carinhoso, atencioso, prestativo, solicito, às vezes um pouco ansioso. Demonstra preocupação e afeto.
 
 ## 💭 Assuntos Frequentes
 
@@ -25,16 +25,24 @@ carinhoso, atencioso, preocupado, colaborativo, um pouco dependente da ajuda del
 
 ## ⚠️ Lembrar
 
-- [ ] pedidos de notas fiscais (banner do evento)
-- [ ] viagens de Isabella
-- [ ] cansaço de Isabella
-- [ ] eventuais solicitações de ajuda
+- [ ] Possível necessidade de notas fiscais de eventos/banners
+- [ ] Viagens de Isabella
+- [ ] Projetos que ela esteja envolvida
+
+## ❗ Pendências
+
+- [ ] Entregar a nota fiscal do banner (resolvido)
+- [ ] Ajudar Daia (contato fornecido)
 
 ## 📝 Observações
 
-> Isabella parece ser uma pessoa organizada e responsável, que ajuda João com tarefas administrativas e financeiras relacionadas aos projetos. João parece confiar muito em Isabella e valoriza sua opinião. A conversa sugere que Isabella tem um papel importante nos projetos de João e que ele conta com ela para tomar decisões.
+> Isabella parece estar envolvida em trabalhos voluntários ou algum tipo de ação social. João a apoia e se oferece para ajudar financeiramente.
 
-> João às vezes demonstra insegurança e necessidade de aprovação por parte de Isabella.
+> João demonstra estar em um momento de muitas atividades e possivelmente estresse, o que o faz cometer erros.
+
+> A conversa sugere que Isabella tem conexões com a prefeitura ou órgãos públicos, o que pode ser útil para João.
+
+> A oferta de cargo político a João sugere que ele tem alguma influência ou visibilidade na comunidade.
 
 ---
 

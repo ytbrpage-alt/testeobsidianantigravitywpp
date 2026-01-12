@@ -7,21 +7,21 @@ tipo: pessoa
 categoria: negocio
 importancia: 8/10
 numero: undefined
-ultima_conversa: 2026-01-12T02:45:07-03:00
+ultima_conversa: 2026-01-12T03:01:41-03:00
 ---
 
 ## 📋 Resumo
 
-Relacionamento profissional entre João e a Floricultura Bela Arte, focado em pedidos, entregas e possivelmente organização de eventos. A comunicação é direta e objetiva, com foco em tarefas e resoluções rápidas. A floricultura parece ser um fornecedor importante para João em algum aspecto de sua vida.
+Um contato de negócios em potencial que está explorando as funcionalidades do assistente pessoal de João. A pessoa demonstra interesse em áreas como saúde, setor público e expansão de negócios. João precisa estar atento às necessidades e pedidos de personalização para construir um relacionamento de sucesso.
 
 ## 💼 Profissional
 
-- **Profissão:** Florista (presumido)
+- **Profissão:** Proprietário/Gerente de floricultura (presumido)
 - **Empresa:** Floricultura Bela Arte
 
 ## 🗣️ Como João Age
 
-Profissional e direto, busca resolver questões práticas relacionadas aos negócios e serviços oferecidos pela floricultura.
+Profissional e tentando ser útil, mas permitindo-se um tom informal e amigável devido ao estilo do contato. Busca entender e atender às necessidades do contato como cliente.
 
 ## 🎯 Projetos
 
@@ -34,20 +34,27 @@ Profissional e direto, busca resolver questões práticas relacionadas aos negó
 
 ## ⚠️ Lembrar
 
-- [ ] Possíveis pedidos de flores/arranjos
-- [ ] Prazos de entrega
-- [ ] Reuniões marcadas (ex: J Broo)
+- [ ] Reunião com Lucas
+- [ ] Reunião com J Broo
+- [ ] Tarefa 'Ver sobre o aiqfome' até às 12h de hoje (12/01)
+- [ ] Possível expansão para o Paraguai
+
+## ❗ Pendências
+
+- [ ] Entender a relação entre a Floricultura Bela Arte e J Broo (atualizar nome da reunião e vincular contato)
+- [ ] Melhorar a integração com o Apple Calendar (se possível)
+- [ ] Resolver os erros de processamento no sistema (ex: historico.map is not a function)
 
 ## 📝 Observações
 
-> A comunicação é objetiva e focada em tarefas.
+> A Floricultura Bela Arte parece estar testando os limites e funcionalidades do sistema de João, com um forte interesse em personalização.
 
-> A floricultura envia mídias (imagens) com frequência, possivelmente para mostrar opções de produtos ou confirmar pedidos.
+> A pessoa demonstra um interesse em negócios com o setor público e saúde, o que pode ser um ponto de conexão importante para João.
 
-> João parece utilizar os serviços da floricultura para ocasiões específicas ou para presentear alguém.
+> Há uma reunião marcada com 'Lucas' e outra com 'J Broo' (possivelmente a mesma pessoa da Floricultura Bela Arte)
 
-> A floricultura pode ser um contato para organizar encontros/reuniões, como evidenciado pela referência a J Broo.
+> A pessoa tem interesse no 'aiqfome' e João precisa verificar sobre isso hoje.
 
 ---
 
-*Última conversa: 3 minutes ago*
+*Última conversa: an hour ago*
