@@ -42,4 +42,4 @@ brincalhão, às vezes rude (xinga), convidativo (para sair e 'f1'), aberto sobr
 
 ---
 
-*Última conversa: 4 hours ago*
+*Última conversa: 5 hours ago*
