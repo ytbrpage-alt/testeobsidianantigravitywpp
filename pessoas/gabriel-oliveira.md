@@ -12,15 +12,15 @@ ultima_conversa: 2026-01-10T12:39:02-03:00
 
 ## 📋 Resumo
 
-Um relacionamento comercial onde João é cliente de Gabriel, um fornecedor de cannabis. João tenta construir uma relação mais próxima, mas Gabriel mantém o foco na transação comercial e na proteção de seus próprios interesses.
+Relação de compra e venda de produtos, onde João é o cliente e Gabriel o fornecedor. João busca uma relação mais próxima e vantajosa, enquanto Gabriel se mantém profissional e focado em seus próprios interesses. A comunicação é informal, mas o tom de negócio é constante.
 
 ## 💼 Profissional
 
-- **Profissão:** Possivelmente vendedor/fornecedor de cannabis
+- **Profissão:** Possivelmente vendedor/fornecedor de produtos relacionados à cannabis
 
 ## 🗣️ Como João Age
 
-Informal, amigável, tenta barganhar e conseguir vantagens, demonstra preferência pelos serviços de Gabriel.
+Informal, direto, busca favorecimento e tenta criar um relacionamento de camaradagem.
 
 ## 💭 Assuntos Frequentes
 
@@ -29,11 +29,13 @@ Informal, amigável, tenta barganhar e conseguir vantagens, demonstra preferênc
 
 ## ⚠️ Lembrar
 
-- [ ] Verificar a disponibilidade de Gabriel antes de prometer a outros, entender o valor do trabalho e risco de Gabriel.
+- [ ] A disponibilidade de Gabriel é incerta e pode variar. Ele não gosta de ser pressionado por descontos ou condições especiais a menos que ele se beneficie também. As vezes está 'zerado' (sem estoque).
 
 ## 📝 Observações
 
-> João tenta estabelecer uma relação mais pessoal com Gabriel, convidando-o para fumar junto e oferecendo 'apoio', mas Gabriel mantém o foco no lado comercial. Há uma menção de 'negócios fortes para Toledo', o que sugere que João está expandindo suas operações e pode precisar de um fornecedor confiável como Gabriel.
+> João tenta construir uma relação de amizade/parceria para obter melhores condições, mas Gabriel parece mais interessado em manter a relação estritamente comercial. Gabriel valoriza sua liberdade e não quer se arriscar por pouco lucro.
+
+> O uso de mídias (fotos e vídeos) é frequente na conversa, possivelmente para demonstrar a qualidade dos produtos ou para confirmar entregas/recebimentos.
 
 ---
 

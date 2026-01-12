@@ -5,18 +5,18 @@
 ---
 tipo: pessoa
 categoria: amigo
-importancia: 7/10
+importancia: 6/10
 numero: undefined
-ultima_conversa: 2026-01-11T10:20:03-03:00
+ultima_conversa: 2026-01-12T13:39:59-03:00
 ---
 
 ## 📋 Resumo
 
-Julya é uma amiga próxima de João, com quem ele compartilha momentos de lazer e desabafos. A relação é marcada pela informalidade, humor e um certo grau de provocação, sugerindo um vínculo forte e confortável entre os dois.
+Amizade com tom brincalhão e uso frequente de memes, marcada por momentos de proximidade e outros de tensão. Parecem ter uma dinâmica onde a espontaneidade e a linguagem forte são comuns. Julya pode ser uma companhia importante para João, especialmente em momentos difíceis.
 
 ## 🗣️ Como João Age
 
-João se comporta de forma bem informal e brincalhona com Julya, às vezes até de forma provocativa. Ele parece à vontade para compartilhar seus sentimentos e planos com ela, além de não se importar em usar linguagem chula.
+brincalhão, às vezes rude (xinga), convidativo (para sair e 'f1'), aberto sobre seus problemas (estar 'mal'), e parece ter momentos de confusão ou lapsos de memória ('Já fui altas vezes oxe', 'Nem parece que vc tem câncer')
 
 ## 💭 Assuntos Frequentes
 
@@ -25,24 +25,16 @@ João se comporta de forma bem informal e brincalhona com Julya, às vezes até 
 - saúde
 - viagens
 
-## ⚠️ Lembrar
-
-- [ ] Possível viagem ao Rio de Janeiro com Julya (quando tiver dinheiro), viagem para os EUA e depois para 'Eh' (provavelmente Europa)
-- [ ] Irmã de Julya tem problemas de saúde (endometriose?)
-
 ## ❗ Pendências
 
-- [ ] Avisar Julya quando tiver dinheiro para viajar para o Rio de Janeiro.
-- [ ] Pedir os exames da irmã dela.
+- [ ] Acompanhar a situação da irmã de Julya (pedir o exame). Considerar a proposta de ir ao RJ quando tiver dinheiro.
 
 ## 📝 Observações
 
-> Julya pode ter uma condição de saúde (possivelmente câncer), mas a conversa sugere que João duvida da veracidade ou seriedade disso.
+> A conversa contém referências a uso de substâncias. Julya parece ter um senso de humor ácido e não se importa com linguagem forte. João parece estar passando por alguma situação difícil (pai levando enfermeira, estar 'mal'). A menção sobre 'Nem parece que vc tem câncer' é muito estranha e pode indicar desinformação de João ou algo mais sério sobre a saúde de Julya.
 
-> A conversa tem um tom bastante humorístico e sarcástico, o que pode indicar uma forma de lidar com assuntos delicados ou simplesmente um estilo de comunicação entre os dois.
-
-> O uso frequente de mídias por Julya sugere que ela pode ser uma pessoa visual ou que está tentando manter João engajado na conversa.
+> A quantidade de mídias enviadas por Julya sugere que essa é uma forma importante de comunicação entre eles.
 
 ---
 
-*Última conversa: a day ago*
+*Última conversa: 18 minutes ago*

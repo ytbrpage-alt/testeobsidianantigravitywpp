@@ -7,7 +7,7 @@ tipo: pessoa
 categoria: amigo/romance
 importancia: 7/10
 numero: undefined
-ultima_conversa: 2026-01-12T12:29:09-03:00
+ultima_conversa: 2026-01-12T13:55:21-03:00
 ---
 
 ## 📋 Resumo
@@ -40,4 +40,4 @@ João se comporta de forma bem informal, brincalhão, e com flertes. Ele parece 
 
 ---
 
-*Última conversa: 29 minutes ago*
+*Última conversa: 3 minutes ago*

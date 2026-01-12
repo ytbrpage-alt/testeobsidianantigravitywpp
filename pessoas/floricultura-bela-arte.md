@@ -7,7 +7,7 @@ tipo: pessoa
 categoria: negocio
 importancia: 8/10
 numero: undefined
-ultima_conversa: 2026-01-12T12:39:27-03:00
+ultima_conversa: 2026-01-12T13:49:15-03:00
 ---
 
 ## 📋 Resumo
@@ -57,4 +57,4 @@ Profissional e atencioso, usando o nome formal 'Dr. João' e apelido 'João'. Bu
 
 ---
 
-*Última conversa: 19 minutes ago*
+*Última conversa: 9 minutes ago*

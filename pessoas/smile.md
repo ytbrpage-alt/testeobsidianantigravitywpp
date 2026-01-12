@@ -7,7 +7,7 @@ tipo: pessoa
 categoria: negocio
 importancia: 9/10
 numero: undefined
-ultima_conversa: 2026-01-12T02:21:38-03:00
+ultima_conversa: 2026-01-12T13:56:17-03:00
 ---
 
 ## 📋 Resumo
@@ -55,4 +55,4 @@ Colaborativo, compartilha informações, pede opiniões e confia no julgamento d
 
 ---
 
-*Última conversa: 11 hours ago*
+*Última conversa: 2 minutes ago*
