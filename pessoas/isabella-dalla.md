@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-09T09:26:09-03:00
 
 ## 📋 Resumo
 
-João e Isabella têm uma relação de amizade próxima e colaborativa. Eles compartilham um projeto em comum e se apoiam mutuamente. Isabella demonstra preocupação genuína com o bem-estar de João, e ele valoriza sua opinião e ajuda.
+João e Isabella têm um relacionamento de amizade forte, com muita parceria e apoio mútuo, seja em projetos profissionais ou no bem-estar pessoal. Eles se preocupam um com o outro e colaboram em diversas atividades, principalmente eventos e projetos sociais. Existe um vínculo de confiança e carinho entre os dois.
 
 ## 🗣️ Como João Age
 
-João se comporta de forma carinhosa e atenciosa, demonstrando preocupação com o bem-estar de Isabella. Ele também parece sentir-se à vontade para compartilhar frustrações e inseguranças com ela, além de pedir ajuda para confirmar informações.
+João se comporta de forma carinhosa e atenciosa, demonstrando preocupação e oferecendo ajuda. Ele utiliza apelidos carinhosos e se mostra solícito em relação às necessidades dela.
 
 ## 💭 Assuntos Frequentes
 
@@ -25,16 +25,25 @@ João se comporta de forma carinhosa e atenciosa, demonstrando preocupação com
 
 ## ⚠️ Lembrar
 
-- [ ] necessidade da nota fiscal do banner para Isabella (resolvido)
-- [ ] Déia/Daia
+- [ ] compromissos relacionados aos projetos/eventos que estão trabalhando juntos
+- [ ] datas de eventos que ela está organizando
+- [ ] viagens dela (se houver)
+- [ ] aniversário dela (desconhecido, mas importante dado o nível de proximidade)
+
+## ❗ Pendências
+
+- [ ] garantir que Isabella tenha todas as informações/documentos necessários para os projetos
+- [ ] continuar a oferecer apoio e ajuda nos projetos em que ela está envolvida
 
 ## 📝 Observações
 
-> Há uma forte indicação de que Isabella e João trabalham juntos em algum projeto social ou evento. João valoriza a opinião e o apoio de Isabella, confiando nela para verificar informações e oferecendo ajuda financeira para o trabalho dela.
+> Existe um forte senso de parceria e apoio mútuo entre João e Isabella.
 
-> João demonstra certa insegurança em relação ao trabalho e pede para Isabella conferir suas ações.
+> Isabella parece estar envolvida em trabalho social ou voluntário, dado o contexto das doações.
 
-> Isabella se preocupa genuinamente com o bem-estar físico e emocional de João.
+> João parece confiar na opinião e no trabalho de Isabella.
+
+> Isabella está ajudando em projetos nos quais João está envolvido, e se preocupa com a saúde e bem estar de João
 
 ---
 

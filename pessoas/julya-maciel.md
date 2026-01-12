@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-11T10:20:03-03:00
 
 ## 📋 Resumo
 
-João e Julya têm uma amizade casual e brincalhona, marcada por convites para encontros informais e compartilhamento de experiências. A dinâmica inclui momentos de ciúmes por parte de Julya e uma certa despreocupação por parte de João, mas no geral, a relação parece ser leve e divertida.
+Julya é uma amiga próxima de João, com quem ele compartilha momentos de lazer e desabafos. A relação é marcada por informalidade, humor e um certo nível de provocação amigável. Eles parecem ter uma dinâmica de amizade sólida, com interesses em comum e preocupação mútua.
 
 ## 🗣️ Como João Age
 
-João se comporta de forma brincalhona e informal, com um tom às vezes sarcástico. Ele parece confortável em compartilhar detalhes pessoais e combinar encontros casuais, além de usar gírias e abreviações.
+João se comporta de forma bem informal, brincalhão e às vezes um pouco confusa. Ele parece estar à vontade para compartilhar sobre seus problemas e usar humor. Flerta as vezes, mas de forma leve.
 
 ## 💭 Assuntos Frequentes
 
@@ -27,14 +27,15 @@ João se comporta de forma brincalhona e informal, com um tom às vezes sarcást
 
 ## ❗ Pendências
 
-- [ ] Possivelmente viajar para o Rio de Janeiro com Julya quando tiver dinheiro.
+- [ ] Considerar ir ao Rio de Janeiro com Julya quando tiver dinheiro.
+- [ ] Pegar o exame da irmã de Julya para analisar.
 
 ## 📝 Observações
 
-> A conversa contém referências a 'câncer', mas não está claro se Julya realmente tem a doença ou se é uma brincadeira interna. Julya demonstra ciúmes e impaciência quando João não responde imediatamente.
+> A conversa contém referências a 'f1' e 'pod', indicando possível uso de maconha e vape. Julya menciona que não consegue ficar sem pod. João parece ter problemas com o pai, que está usando o carro para levar uma enfermeira para Cascavel. Julya parece estar ciente de alguns problemas de saúde de João, possivelmente relacionados a câncer, mas pode ser uma piada interna.
 
-> A conversa inclui gírias e abreviações, o que pode indicar uma faixa etária jovem.
+> A relação deles aparenta ser mais de amizade do que romântica, apesar de algumas interações que podem ser interpretadas como flerte.
 
 ---
 
-*Última conversa: 18 hours ago*
+*Última conversa: 19 hours ago*

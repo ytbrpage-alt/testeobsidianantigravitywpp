@@ -12,7 +12,7 @@ ultima_conversa: 2026-01-11T02:01:43-03:00
 
 ## 📋 Resumo
 
-João e Cássio têm um relacionamento próximo, com elementos de amizade, negócios e política. João valoriza a opinião de Cássio e busca sua companhia, enquanto Cássio aprecia o feedback de João sobre sua imagem pública e considera oportunidades de colaboração. Há um potencial para benefícios mútuos em áreas de negócios e política.
+João e Cássio são amigos próximos com interesses em comum em negócios, política e eventos sociais. João busca a opinião de Cássio e admira suas atividades, enquanto Cássio valoriza a amizade de João e busca seu feedback. Eles compartilham um relacionamento informal e brincalhão, com potencial para colaborações profissionais.
 
 ## 💼 Profissional
 
@@ -20,26 +20,29 @@ João e Cássio têm um relacionamento próximo, com elementos de amizade, negó
 
 ## 🗣️ Como João Age
 
-Brincalhão, informal, às vezes invasivo (clonagem de celular), dependente da opinião de Cássio, busca aprovação e companhia.
+João se comporta de forma brincalhona e informal, mas também parece buscar a opinião e aprovação de Cássio em algumas situações. Ele demonstra interesse nas atividades de Cássio e tenta se incluir.
 
 ## ⚠️ Lembrar
 
-- [ ] Compromissos/encontros combinados (ir ao lago, velório em Dois Vizinho)
-- [ ] Opiniões e feedback sobre a imagem de Cássio nas redes sociais
-- [ ] Oportunidade de patrocínio do podcast pela Safeeds
+- [ ] Possível velório em Dois Vizinho (verificar horário e se João realmente pretende ir)
+- [ ] Possível patrocínio da Safeeds para o podcast de Cássio
 
 ## ❗ Pendências
 
-- [ ] Dar feedback sobre a foto de perfil de Cássio com a máscara de V
-- [ ] Considerar o patrocínio do podcast pela Safeeds
+- [ ] Dar feedback sobre a foto de perfil de Cássio no Instagram
+- [ ] Considerar a proposta de patrocínio da Safeeds para o podcast de Cássio
 
 ## 📝 Observações
 
-> A alegação de clonagem do celular pode ser uma brincadeira ou uma tentativa de invasão de privacidade. A relação parece ter elementos de dependência emocional por parte de João. Cássio parece estar envolvido em licitações e tem contatos políticos relevantes.
+> Cássio pode estar envolvido em licitações e ter alguma influência política na região.
 
-> Cássio está preocupado com sua imagem pública e busca a aprovação de João para decisões relacionadas às redes sociais.
+> Cássio valoriza a opinião de João, especialmente em relação à sua imagem pública.
 
-> Há um potencial interesse comercial/de negócios entre eles, relacionado à empresa Safeeds e ao podcast.
+> João parece estar buscando oportunidades de colaboração com Cássio (podcast).
+
+> A menção à 'base' de Cássio no lago pode indicar um local de encontro social ou profissional.
+
+> A brincadeira sobre 'clonar o celular' sugere uma relação de bastante intimidade e confiança.
 
 ---
 

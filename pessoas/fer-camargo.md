@@ -12,16 +12,16 @@ ultima_conversa: 2026-01-09T08:32:57-03:00
 
 ## 📋 Resumo
 
-João e Fer são amigos com uma relação profissional em desenvolvimento. João está ajudando Fer com um sistema de cálculo para seu negócio e vislumbra uma oportunidade de parceria com a empresa familiar dela. A dinâmica é de colaboração e interesse mútuo em crescimento.
+João está prestando um serviço de desenvolvimento de software para Fer, com o objetivo de ajudá-la nos cálculos do negócio. Existe uma forte possibilidade de uma parceria futura entre João e a família de Fer, unindo a área médica de João com os negócios da família Camargo. A relação parece promissora e mutuamente benéfica.
 
 ## 💼 Profissional
 
 - **Profissão:** Não especificada, mas ligada a vendas/comércio
-- **Empresa:** Empresa familiar (pai e tia envolvidos), com expansão para mais uma cama e um coffee shop (segredo)
+- **Empresa:** Empresa familiar (mencionado o pai)
 
 ## 🗣️ Como João Age
 
-Profissional e prestativo, demonstrando boa vontade em ajudar e construir algo juntos. Tem iniciativa em propor uma parceria e é atencioso às necessidades de Fer.
+Profissional, prestativo, solícito, busca entender as necessidades dela, demonstra vontade de colaborar e estabelecer uma parceria.
 
 ## 💭 Assuntos Frequentes
 
@@ -30,24 +30,28 @@ Profissional e prestativo, demonstrando boa vontade em ajudar e construir algo j
 ## ⚠️ Lembrar
 
 - [ ] Reunião na segunda-feira para discutir a parceria
-- [ ] Acompanhar o progresso da nova cama e do coffee shop
+- [ ] Necessidades específicas de Fer para o site/sistema
+- [ ] Aguardar o contato de Fer sobre a reunião com o pai dela
+- [ ] Manter o sistema funcionando e disponível para testes
 
 ## ❗ Pendências
 
-- [ ] Finalizar e refinar o site/sistema de cálculo de ROI
-- [ ] Aguardar o feedback final de Fer sobre o site
+- [ ] Finalizar o sistema/site para Fer
+- [ ] Aguardar o feedback de Fer sobre o sistema
+- [ ] Confirmar a reunião na segunda-feira
+- [ ] Discutir a parceria com Fer e o pai dela
 
 ## 📝 Observações
 
-> Fer está envolvida em um negócio familiar em expansão.
+> A família de Fer está expandindo os negócios (nova cama e 'coffee').
 
-> O pai de Fer é uma figura chave nas decisões da empresa.
+> O pai de Fer está envolvido ativamente nos negócios.
 
-> João tem interesse em estabelecer uma parceria de negócios com Fer e seu pai.
+> A área médica de João pode ser complementar aos negócios da família Camargo.
 
-> Fer parece ter uma tia envolvida no negócio, cujo feedback é importante.
+> João está em uma fase de muita correria e com muitos compromissos.
 
-> Fer demonstra estar atarefada e cuidando de outra pessoa (Isabela)
+> Fer está cuidando de uma criança chamada Isabela.
 
 ---
 

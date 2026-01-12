@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-12T00:28:33-03:00
 
 ## 📋 Resumo
 
-Relacionamento amoroso com forte laço emocional, marcado por humor, preocupação e uma dinâmica de cuidado. A comunicação é aberta e frequente, com ambos expressando seus sentimentos de forma direta ou indireta. João demonstra ser atencioso e disposto a ajudar, enquanto Jeciely expressa vulnerabilidade e busca validação.
+João e Jeciely têm um relacionamento romântico com toques de humor e brincadeiras. João demonstra afeto e preocupação com o bem-estar dela, enquanto Jeciely busca sua atenção e carinho, às vezes de forma um pouco dramática. A comunicação deles parece ser frequente e informal.
 
 ## 🗣️ Como João Age
 
-Carinhoso, atencioso, brincalhão, preocupado com o bem-estar dela, disposto a ser 'beta' (fazer coisas por ela). Usa humor e flerte.
+Carinhoso, atencioso, brincalhão, preocupado com o bem-estar dela, tenta ser engraçado e demonstra afeto. Age de forma um pouco 'beta', disposto a fazer coisas para agradá-la.
 
 ## 💭 Assuntos Frequentes
 
@@ -24,26 +24,27 @@ Carinhoso, atencioso, brincalhão, preocupado com o bem-estar dela, disposto a s
 
 ## ⚠️ Lembrar
 
-- [ ] A febre de Jeciely e o voo dela no dia seguinte.
-- [ ] Possível mal-estar causado pela chuva.
-- [ ] O sentimento de que João a bloqueou dos stories (mesmo que não tenha acontecido).
+- [ ] Voo dela (possivelmente no dia seguinte às mensagens)
+- [ ] Problema com os stories (resolver o bloqueio)
+- [ ] Estado de saúde dela (acompanhar a febre e outros sintomas)
+- [ ] Projetos que a IA mencionou
 
 ## ❗ Pendências
 
-- [ ] Verificar se ela está melhor da febre.
-- [ ] Esclarecer a questão do bloqueio nos stories.
-- [ ] Resolver a questão da IA e do projeto (mencionado rapidamente)
+- [ ] Resolver o problema do bloqueio nos stories
+- [ ] Verificar os 'projetos' mencionados pela IA
+- [ ] Acompanhar o estado de saúde de Jeciely e oferecer ajuda
 
 ## 📝 Observações
 
-> Jeciely parece ser um pouco insegura e carente, buscando validação e atenção de João.
+> Ela parece ser um pouco insegura e carente, buscando validação e atenção de João.
 
-> A saúde dela é uma preocupação para João.
+> A referência ao 'Beta da montanha' sugere uma dinâmica de relacionamento específica que vale a pena entender melhor.
 
-> Há uma dinâmica de 'provocação' e 'cuidado' no relacionamento.
+> A menção a 'outra namorada' nos stories (mesmo que em tom de brincadeira) pode indicar ciúmes ou insegurança da parte dela.
 
-> A menção à 'outra namorada' nos stories pode indicar ciúmes ou insegurança por parte dela, mesmo que dita em tom de brincadeira.
+> Rhuan é provavelmente um amigo em comum ou alguém próximo que trabalha na área da saúde.
 
 ---
 
-*Última conversa: 4 hours ago*
+*Última conversa: 5 hours ago*

@@ -1,10 +1,10 @@
-# Pai 👤
+# Pai 👨‍👩‍👧
 
-#pessoa #familia|negocio
+#pessoa #familia
 
 ---
 tipo: pessoa
-categoria: familia|negocio
+categoria: familia
 importancia: 10/10
 numero: undefined
 ultima_conversa: 2026-01-11T07:34:46-03:00
@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-11T07:34:46-03:00
 
 ## 📋 Resumo
 
-João e seu pai têm uma relação próxima, tanto pessoal quanto profissionalmente. Eles compartilham responsabilidades nos negócios, onde a opinião de João é valorizada. Há um equilíbrio entre o profissionalismo e o afeto, demonstrado por preocupações com o bem-estar um do outro e momentos de descontração.
+Um relacionamento familiar próximo, onde o pai desempenha um papel importante tanto na vida pessoal quanto profissional de João. Há uma dinâmica de trabalho estabelecida, com o pai atuando como mentor e cobrando resultados. Apesar das responsabilidades, há também momentos de afeto e descontração.
 
 ## 🗣️ Como João Age
 
-Respeitoso, atencioso, busca aprovação, colaborativo, demonstra preocupação e se coloca à disposição para ajudar e resolver problemas. Demonstra seriedade em relação ao trabalho, mas também tem momentos de descontração.
+Respeitoso, atencioso, busca aprovação e cumpre tarefas, por vezes com certa informalidade.
 
 ## 💭 Assuntos Frequentes
 
@@ -26,34 +26,29 @@ Respeitoso, atencioso, busca aprovação, colaborativo, demonstra preocupação 
 ## ⚠️ Lembrar
 
 - [ ] Entrega do carro na mansão
-- [ ] Reunião de alinhamento geral
-- [ ] Acompanhar a resolução dos problemas do portão da garagem
-- [ ] Cobrar as pendências do dia seguinte as 7h
-- [ ] Desligamento do funcionário que não acredita na IA
+- [ ] Resolver a questão dos 6 pacientes pendentes
+- [ ] Verificar o portão da garagem
+- [ ] Reunião de alinhamento geral (22h)
+- [ ] Demissão de Rhuan
 
 ## ❗ Pendências
 
-- [ ] Resolver pendências com pacientes
-- [ ] Garantir que Gustavo assuma a responsabilidade pelos pacientes
-- [ ] Entregar o carro na mansão
-- [ ] Colocar controle no portão da garagem
-- [ ] Resolver a situação do funcionário Rhua
-- [ ] Preparar tudo para as 7h do dia seguinte
+- [ ] Resolver os problemas com 6 pacientes
+- [ ] Instalar controle no portão da garagem
+- [ ] Garantir que tudo esteja pronto até 7h (tarefa não especificada)
 
 ## 📝 Observações
 
-> Há uma dinâmica de trabalho/negócios entre João e o pai.
+> Há uma dinâmica de trabalho entre eles, com o pai delegando tarefas e cobrando resultados.
 
-> A empresa parece ser focada em IA.
+> João parece buscar a aprovação do pai.
 
-> O pai de João demonstra ser culto e interessado em literatura e filosofia.
+> O pai parece ter um papel de liderança/mentor na vida de João.
 
-> Existe um certo senso de urgência nas mensagens do pai, como a questão dos pacientes pendentes.
+> Há momentos de descontração e afeto, apesar do foco principal ser em trabalho.
 
-> Apesar da seriedade nos negócios, há momentos de descontração e afeto (coração vermelho).
-
-> João parece ter autonomia para tomar decisões na empresa, como a demissão do funcionário.
+> A opinião do pai sobre os funcionários da empresa de João é levada em consideração.
 
 ---
 
-*Última conversa: 21 hours ago*
+*Última conversa: a day ago*

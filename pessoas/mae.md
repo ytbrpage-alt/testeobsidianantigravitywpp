@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-11T19:31:25-03:00
 
 ## 📋 Resumo
 
-Um relacionamento familiar forte e carinhoso entre mãe e filho. João demonstra grande preocupação e afeto pela mãe, enquanto ela compartilha suas aventuras e busca seu apoio. A comunicação é frequente e carregada de emoção.
+Um relacionamento familiar muito próximo e carinhoso entre mãe e filho. João se preocupa com o bem-estar e a segurança da mãe, enquanto ela compartilha suas experiências e mantém contato frequente. Há um forte vínculo emocional e saudade demonstrados por ambos.
 
 ## 🗣️ Como João Age
 
-Carinhoso, atencioso, preocupado, brincalhão, demonstra saudade e afeto. Demonstra preocupação com o bem-estar e segurança dela.
+Extremamente carinhoso, atencioso, preocupado e demonstra saudade. Usa emojis e diminutivos. Tem um tom brincalhão, mas demonstra genuína preocupação com o bem-estar dela.
 
 ## 💭 Assuntos Frequentes
 
@@ -25,27 +25,18 @@ Carinhoso, atencioso, preocupado, brincalhão, demonstra saudade e afeto. Demons
 
 ## ⚠️ Lembrar
 
-- [ ] Próximas viagens da mãe
-- [ ] Possível necessidade de buscar a mãe de madrugada (no hotel onde ele a levou)
-- [ ] Datas de retorno das viagens
+- [ ] Horário e local para buscar a mãe na volta da viagem (madrugada, no hotel que ele a levou), paradas em Realeza.
 
 ## ❗ Pendências
 
-- [ ] Ir junto nas próximas viagens (de forma brincalhona)
-- [ ] Buscar a mãe de madrugada no hotel (com o pai)
+- [ ] Buscar a mãe na volta da viagem.
 
 ## 📝 Observações
 
-> João demonstra grande preocupação com a segurança e bem-estar da mãe durante suas viagens.
+> João demonstra uma preocupação genuína com a segurança e o bem-estar da mãe durante a viagem. Há um forte senso de carinho e conexão entre os dois. A mãe compartilha ativamente sua experiência de viagem com João, o que indica uma relação de confiança e proximidade.
 
-> Existe um forte laço afetivo entre eles, evidente pela demonstração de saudade e carinho.
-
-> A mãe gosta de compartilhar suas experiências de viagem com o filho, enviando fotos e vídeos.
-
-> João expressa felicidade ao ver a mãe feliz.
-
-> A mãe demonstra confiança em João, contando com ele para buscá-la.
+> João menciona 'volta logo' e 'ja ta saindo demais a menina', indicando talvez que a mãe tem saído bastante e ele sente falta.
 
 ---
 
-*Última conversa: 9 hours ago*
+*Última conversa: 10 hours ago*
