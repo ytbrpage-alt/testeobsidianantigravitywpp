@@ -5,22 +5,22 @@
 ---
 tipo: pessoa
 categoria: negocio
-importancia: 8/10
+importancia: 7/10
 numero: undefined
 ultima_conversa: 2026-01-11T20:49:15-03:00
 ---
 
 ## 📋 Resumo
 
-Este é um contato profissional crucial para a implementação de projetos de desenvolvimento web e marketing digital de João. A conversa gira em torno de instruções técnicas, requisições de tarefas e informações para aprimorar a presença online de seus negócios. João depende desta pessoa para executar tarefas específicas e manter seus projetos em andamento.
+Um contato de trabalho para o qual João direciona tarefas, especialmente relacionadas à atualização e manutenção de sites. A comunicação é objetiva e focada nas demandas de trabalho. A pessoa parece ser responsável por executar as instruções de João relativas aos negócios dele.
 
 ## 💼 Profissional
 
-- **Empresa:** Provavelmente relacionado a alguma empresa de tecnologia/desenvolvimento web/marketing digital (Ecossistema Atlas, Aerovida, SantinAviation)
+- **Empresa:** SantinAviation, Aerovida, Atlas (possivelmente)
 
 ## 🗣️ Como João Age
 
-Profissional, direto, requisitando informações e tarefas, fornecendo detalhes técnicos e instruções.
+profissional, direcionando tarefas e fornecendo informações
 
 ## 💭 Assuntos Frequentes
 
@@ -30,25 +30,26 @@ Profissional, direto, requisitando informações e tarefas, fornecendo detalhes 
 
 ## ⚠️ Lembrar
 
-- [ ] Configurar direcionamentos corretos para os sites (Aerovida, Santin Aeroparts)
-- [ ] Adicionar o Ecossistema Atlas ao Whatsapp
-- [ ] Criar diferentes tipos de perfis de usuário no site
-- [ ] Liberar a personalização da landing page para M.A Med
+- [ ] Atualizar links e informações nos sites mencionados (Aerovida, Santin Aviation, Atlas)
+- [ ] Criar diferentes tipos de perfis de usuários no site
+- [ ] Implementar o código de rastreamento do Google Ads
+- [ ] Personalização de landing pages
 
 ## ❗ Pendências
 
-- [ ] Garantir que as solicitações de desenvolvimento e modificação do site sejam implementadas corretamente.
-- [ ] Monitorar o progresso da criação dos perfis de usuário.
-- [ ] Verificar a liberação da landing page da M.A Med.
+- [ ] Implementar as alterações nos sites conforme as instruções
+- [ ] Criar os perfis de usuário solicitados
+- [ ] Configurar o rastreamento de Google Ads
+- [ ] Liberar personalização da landing page da M.A Med
 
 ## 📝 Observações
 
-> João está envolvido em diversos projetos de desenvolvimento e marketing digital.
+> João está envolvido em negócios relacionados à aviação (SantinAviation) e saúde (Aerovida, M.A Med).
 
-> Ele precisa de assistência para implementar mudanças específicas em seus sites.
+> Ele utiliza um sistema automatizado chamado JARVIS ULTIMATE para gerenciar tarefas e informações.
 
-> Ele está trabalhando em um projeto relacionado a serviços médicos (M.A Med).
+> A comunicação com 'Joao Empresa' é estritamente focada em tarefas e instruções.
 
 ---
 
-*Última conversa: 15 hours ago*
+*Última conversa: 16 hours ago*

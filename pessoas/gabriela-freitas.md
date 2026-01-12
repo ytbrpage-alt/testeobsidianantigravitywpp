@@ -48,4 +48,4 @@ Extremamente carinhoso, atencioso, demonstra saudade e preocupação. Envia foto
 
 ---
 
-*Última conversa: 13 minutes ago*
+*Última conversa: an hour ago*
