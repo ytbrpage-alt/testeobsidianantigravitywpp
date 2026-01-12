@@ -7,16 +7,16 @@ tipo: pessoa
 categoria: romance
 importancia: 10/10
 numero: undefined
-ultima_conversa: 2026-01-12T09:04:58-03:00
+ultima_conversa: 2026-01-12T10:42:12-03:00
 ---
 
 ## 📋 Resumo
 
-João e J Brooooo 💖💓 possuem um relacionamento romântico onde a brincadeira e preocupação são constantes. Há uma dinâmica de provocação e atenção, com João demonstrando grande interesse e cuidado com ela. A saúde de J Brooooo 💖💓 e problemas com o Instagram são pontos importantes no momento.
+Relacionamento romântico com forte vínculo emocional e histórico compartilhado. A dinâmica inclui brincadeiras, preocupação com a saúde e alguma insegurança nas redes sociais. João precisa ser atencioso e cuidadoso para manter a harmonia no relacionamento.
 
 ## 🗣️ Como João Age
 
-Carinhoso, atencioso, brincalhão, prestativo, protetor (oferece ajuda médica)
+Atencioso, carinhoso, preocupado com a saúde dela, brincalhão, e demonstra um certo 'servilismo' ou desejo de agradar, brincando sobre ser 'beta'. Usa IA para interagir.
 
 ## 💭 Assuntos Frequentes
 
@@ -24,16 +24,16 @@ Carinhoso, atencioso, brincalhão, prestativo, protetor (oferece ajuda médica)
 
 ## ⚠️ Lembrar
 
-- [ ] Possível voo de J Brooooo 💖💓 no dia 12/01. Monitorar a saúde dela, garantir que ela esteja bem para viajar.
+- [ ] Possível voo que ela precisa pegar (verificar se ela está bem para viajar), manter atenção à saúde dela, acompanhar se ela está visualizando os Stories (para evitar conflitos).
 
 ## ❗ Pendências
 
-- [ ] Verificar o motivo do problema com os Stories do Instagram (possível block acidental). Descobrir mais sobre o 'projeto' mencionado na mensagem sobre a IA.
+- [ ] Verificar os 'projetos' mencionados pela IA, garantir que ela se sinta incluída nos Stories, prestar atenção à saúde dela e oferecer ajuda se necessário.
 
 ## 📝 Observações
 
-> A conversa sugere um relacionamento com momentos de tensão (possível ciúme ou insegurança por parte de J Brooooo 💖💓). João está disposto a ajudar e ser um 'beta' para ela, mostrando um forte sentimento. A menção a 'Rhuan' pode ser um amigo de João que trabalha na área médica. Jeciely parece não gostar muito dele.
+> A conversa revela um possível ciúme ou insegurança por parte dela em relação ao Instagram. João deve ter cuidado com o que posta e como interage com outras pessoas online. O uso de IA para interagir com ela pode ser arriscado e deve ser feito com cautela para evitar mal-entendidos.
 
 ---
 
-*Última conversa: 43 minutes ago*
+*Última conversa: 5 minutes ago*

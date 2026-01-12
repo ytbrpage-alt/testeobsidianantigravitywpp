@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-11T10:20:03-03:00
 
 ## 📋 Resumo
 
-Um relacionamento de amizade divertido e informal, com possível atração mútua. Compartilham momentos de lazer e um certo nível de intimidade, mas sem grandes compromissos. Julya parece valorizar a atenção de João.
+João e Julya têm um relacionamento de amizade com toques de flerte, marcado por informalidade e humor. Eles compartilham interesses em comum, como sair e fumar, mas também enfrentam momentos de tensão e impaciência. O relacionamento parece ser relativamente novo e baseado em diversão e companhia.
 
 ## 🗣️ Como João Age
 
-João se comporta de forma bem informal e brincalhona com Julya, usando gírias, abreviações e às vezes sendo um pouco provocador. Parece haver uma dinâmica de flerte ou atração mútua, mas com uma base de amizade. Ele compartilha detalhes da sua vida, incluindo problemas de saúde familiar e planos de viagem.
+João se comporta de forma bem informal, brincalhona e às vezes um pouco provocadora com Julya. Ele parece confortável em compartilhar detalhes pessoais (como o carro estar com o pai) e flerta, mas também demonstra certa impaciência e sarcasmo.
 
 ## 💭 Assuntos Frequentes
 
@@ -25,20 +25,14 @@ João se comporta de forma bem informal e brincalhona com Julya, usando gírias,
 - saúde
 - viagens
 
-## ⚠️ Lembrar
-
-- [ ] Possível viagem para o Rio de Janeiro com Julya (quando tiver dinheiro)
-- [ ] Problema de saúde da irmã de Julya (endometriose?)
-
 ## ❗ Pendências
 
-- [ ] Confirmar ou declinar o convite para ir ao Rio de Janeiro
+- [ ] Viajar para o Rio de Janeiro com Julya quando tiver dinheiro.
+- [ ] Pegar os exames da irmã dela.
 
 ## 📝 Observações
 
-> Há uma possível atração mútua, mas o relacionamento parece estar mais focado em amizade e diversão.
-
-> Julya pode ser um pouco carente de atenção, a julgar pela insistência em saber onde João está e por respostas rápidas.
+> A conversa contém referências a 'f1', o que sugere o uso de maconha. A menção ao 'câncer' pode ser uma piada interna ou uma forma de Julya chamar a atenção. A troca de 'mídias' sugere o compartilhamento de fotos ou vídeos, o que pode indicar um nível maior de intimidade. A conversa tem momentos de tensão, com Julya chamando João de 'corno' e xingando, mas logo depois volta a um tom amigável. João menciona estar 'mal' e pede para Julya ir até ele, indicando que ele confia nela e busca apoio.
 
 ---
 

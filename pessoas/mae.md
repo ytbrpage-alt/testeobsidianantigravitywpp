@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-11T19:31:25-03:00
 
 ## 📋 Resumo
 
-João e sua mãe têm um relacionamento muito próximo e carinhoso. Ele se preocupa com o bem-estar dela e demonstra grande felicidade em vê-la aproveitando a vida. A mãe, por sua vez, compartilha suas experiências com ele, criando um laço ainda mais forte.
+João tem um relacionamento muito próximo e carinhoso com sua mãe. Ele se preocupa com o bem-estar dela, demonstra saudade e admira suas aventuras, mantendo-se conectado através de mensagens frequentes e compartilhamento de experiências.
 
 ## 🗣️ Como João Age
 
-Carinhoso, atencioso, preocupado, brincalhão, demonstra saudade e felicidade em vê-la bem.
+Extremamente carinhoso, preocupado, atencioso, brincalhão e demonstra saudade. Ele expressa felicidade em vê-la feliz e se preocupa com seu bem-estar.
 
 ## 💭 Assuntos Frequentes
 
@@ -25,22 +25,22 @@ Carinhoso, atencioso, preocupado, brincalhão, demonstra saudade e felicidade em
 
 ## ⚠️ Lembrar
 
-- [ ] Data de retorno da viagem da mãe
-- [ ] Local onde buscar a mãe (hotel que ele a levou)
-- [ ] Possível parada em Realeza antes do retorno
+- [ ] Data do retorno da viagem da mãe
+- [ ] Próximas viagens da mãe (considerar ir junto)
 
 ## ❗ Pendências
 
-- [ ] Buscar a mãe de madrugada no hotel
+- [ ] Buscar a mãe de madrugada no hotel (com o pai)
+- [ ] Manter contato frequente durante as viagens da mãe para demonstrar apoio e carinho
 
 ## 📝 Observações
 
-> João demonstra um certo nível de ansiedade e preocupação com a mãe quando ela viaja, expressando saudade e vontade de estar presente nas aventuras dela.
+> João demonstra um misto de preocupação e admiração pelas aventuras da mãe.
 
-> A mãe parece gostar de compartilhar seus momentos com João, enviando fotos e vídeos e o mantendo atualizado sobre seus planos.
+> A mãe está viajando e compartilhando ativamente suas experiências com João.
 
-> A relação é claramente afetuosa e próxima.
+> Existe um forte vínculo afetivo entre João e sua mãe, evidenciado pela frequência das mensagens, preocupação e demonstrações de carinho.
 
 ---
 
-*Última conversa: 14 hours ago*
+*Última conversa: 15 hours ago*

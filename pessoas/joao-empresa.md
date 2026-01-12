@@ -1,10 +1,10 @@
-# Joao Empresa 💼
+# Joao Empresa 👔
 
-#pessoa #negocio
+#pessoa #trabalho
 
 ---
 tipo: pessoa
-categoria: negocio
+categoria: trabalho
 importancia: 8/10
 numero: undefined
 ultima_conversa: 2026-01-11T20:49:15-03:00
@@ -12,15 +12,15 @@ ultima_conversa: 2026-01-11T20:49:15-03:00
 
 ## 📋 Resumo
 
-É uma relação profissional onde João delega tarefas de desenvolvimento web e marketing digital. A comunicação é focada em instruções e acompanhamento. A colaboração visa impulsionar os negócios de João através da presença online e da criação de plataformas customizadas.
+João e 'Joao Empresa' possuem uma relação de trabalho onde João delega tarefas de desenvolvimento web e marketing digital. A comunicação é direta e focada em instruções para implementação de projetos. 'Joao Empresa' é responsável por executar as alterações e criações solicitadas por João em seus diversos negócios.
 
 ## 💼 Profissional
 
-- **Empresa:** Múltiplas empresas/projetos (Santin Aviation, Aerovida, Atlas)
+- **Empresa:** Diversas (Atlas, Santin Aviation, Aerovida, M.A Med, Meu Plano Claro)
 
 ## 🗣️ Como João Age
 
-Profissional, diretivo, com foco em tarefas e resultados. João dá instruções claras e objetivas.
+Profissional, direto, dando instruções e informações específicas para tarefas.
 
 ## 💭 Assuntos Frequentes
 
@@ -30,26 +30,29 @@ Profissional, diretivo, com foco em tarefas e resultados. João dá instruções
 
 ## ⚠️ Lembrar
 
-- [ ] Prazos para as tarefas solicitadas
-- [ ] Detalhes específicos sobre cada tarefa (ex: textos a serem usados, links a serem direcionados, tipos de perfis a serem criados)
-- [ ] Certificar-se de que todas as instruções foram claras e compreendidas
-- [ ] Aprovação da personalização da landing page da M.A Med.
+- [ ] Alterações nas landing pages e sites (Aerovida, Santin Aeroparts, Atlas)
+- [ ] Criação de diferentes tipos de perfis de usuário com horários e especialidades
+- [ ] Integração do Ecossistema Atlas com o WhatsApp
+- [ ] Reunião com Márcio (11/01)
+- [ ] Reunião com Lucas (12/01)
 
 ## ❗ Pendências
 
-- [ ] Implementar as mudanças solicitadas para Santin Aviation, Aerovida e Atlas.
-- [ ] Criar diversos tipos de perfis de usuários no site (ambulância, profissionais de saúde, laboratórios, etc.).
-- [ ] Criar slugs específicas para Santin Aeroparts direcionando para o WhatsApp.
-- [ ] Adicionar o código do Google Tag Manager.
+- [ ] Realizar as alterações e implementações solicitadas por João nos sites e landing pages.
+- [ ] Criar os diferentes tipos de perfis de usuário conforme especificado.
+- [ ] Configurar o link do Ecossistema Atlas para o WhatsApp.
+- [ ] Personalizar a landing page da M.A Med.
 
 ## 📝 Observações
 
-> A comunicação é predominantemente unilateral, com João fornecendo instruções. É essencial garantir que 'Joao Empresa' tenha um bom entendimento das tarefas para evitar retrabalho.
+> João está envolvido em diversos projetos e negócios, incluindo aviação, seguros e saúde.
 
-> João está envolvido em vários projetos simultaneamente, o que pode gerar múltiplas solicitações e a necessidade de priorização.
+> Ele utiliza um sistema automatizado chamado 'JARVIS ULTIMATE' para gerenciamento, o que indica familiaridade com tecnologia e automação.
 
-> A criação de diferentes tipos de perfis de usuário sugere que João está envolvido em um negócio que requer uma plataforma com múltiplos usuários e funções diferentes.
+> A comunicação é focada em tarefas e instruções específicas, sugerindo uma relação de trabalho eficiente.
+
+> João busca criar diversos tipos de perfis para abranger as possibilidades em seu site.
 
 ---
 
-*Última conversa: 13 hours ago*
+*Última conversa: 14 hours ago*

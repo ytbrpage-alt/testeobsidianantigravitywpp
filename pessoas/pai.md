@@ -12,15 +12,11 @@ ultima_conversa: 2026-01-11T07:34:46-03:00
 
 ## 📋 Resumo
 
-É uma relação familiar entre pai e filho, que também se estende ao âmbito profissional. O pai é uma figura de autoridade e apoio para João, com quem compartilha responsabilidades e decisões na empresa de IA. Há uma mistura de dinâmicas profissionais e pessoais, com o pai demonstrando tanto o papel de líder quanto de pai carinhoso.
-
-## 💼 Profissional
-
-- **Empresa:** Empresa de IA (mencionada por João)
+A relação entre João e o Pai é uma mistura complexa de laços familiares e profissionais. O Pai exerce um papel de liderança e orientação, enquanto João busca corresponder às expectativas e demonstrar competência. A dinâmica revela uma forte dependência mútua e um investimento significativo na empresa em comum.
 
 ## 🗣️ Como João Age
 
-Respeitoso, atencioso, profissional, busca aprovação e conselhos, parece haver uma dinâmica de subordinação/colaboração.
+Respeitoso, solicito, busca aprovação, colaborativo, demonstra proatividade e responsabilidade, por vezes dependente da aprovação e direcionamento do pai.
 
 ## 💭 Assuntos Frequentes
 
@@ -29,28 +25,31 @@ Respeitoso, atencioso, profissional, busca aprovação e conselhos, parece haver
 
 ## ⚠️ Lembrar
 
-- [ ] Entrega do projeto às 7h (sem falta)
-- [ ] Reunião de alinhamento geral (22h)
-- [ ] Problema no portão da garagem
-- [ ] Desligamento do funcionário que não acredita na IA
+- [ ] Entrega de tarefas até as 7h (sem falta)
+- [ ] Cobrar e acompanhar o conserto do portão da garagem
+- [ ] Reunião de alinhamento geral às 22h
+- [ ] Falar com Jeciely sobre Dostoiévski
+- [ ] Possível ajuda com a senha do aplicativo
 
 ## ❗ Pendências
 
-- [ ] Resolver pendências com seis pacientes
-- [ ] Colocar controle no portão da garagem
-- [ ] Comunicar desligamento do funcionário
+- [ ] Entregar as tarefas até as 7h
+- [ ] Levar o carro para o pai na mansão
+- [ ] Resolver a questão do controle do portão da garagem
+- [ ] Demissão do funcionário que não acredita na IA
+- [ ] Ajudar o pai a recuperar a senha do aplicativo
 
 ## 📝 Observações
 
-> Há uma dinâmica de pai e filho clara, com o pai dando instruções e João buscando aprovação.
+> A relação é bastante interdependente tanto na vida pessoal quanto profissional.
 
-> A empresa de IA é central para o relacionamento, com discussões frequentes sobre funcionários, clientes e tecnologia.
+> João parece buscar a aprovação do pai em várias decisões.
 
-> Existe uma casa da mãe e uma mansão, indicando certo nível de conforto financeiro.
+> O pai demonstra confiança em João, mas também estabelece expectativas claras.
 
-> João demonstra estar sob pressão no trabalho (menciona fumar maconha para aguentar).
+> A empresa parece ser focada em IA, sendo um ponto central na dinâmica entre os dois.
 
-> O pai parece valorizar o carinho e a demonstração de afeto (emoji de coração).
+> João usa maconha para lidar com o estresse no trabalho.
 
 ---
 
