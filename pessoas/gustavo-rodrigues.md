@@ -12,16 +12,16 @@ ultima_conversa: 2026-01-09T22:40:45-03:00
 
 ## 📋 Resumo
 
-Gustavo é um amigo e parceiro de trabalho de João, com expertise na área de enfermagem. Eles colaboram em projetos e compartilham informações, além de manterem uma comunicação informal e divertida. João parece valorizar a ajuda e o conhecimento de Gustavo.
+João e Gustavo compartilham uma relação profissional colaborativa, com fortes laços de amizade. Eles trabalham juntos em projetos na área da saúde, onde Gustavo oferece seu conhecimento técnico em enfermagem. João confia em Gustavo e valoriza sua ajuda, enquanto ambos parecem estar em alerta em relação a uma terceira pessoa que pode estar querendo se aproveitar da situação.
 
 ## 💼 Profissional
 
 - **Profissão:** enfermeiro
-- **Empresa:** Anchieta (mencionado)
+- **Empresa:** Anchieta (possivelmente)
 
 ## 🗣️ Como João Age
 
-brincalhão, amigável, colaborativo, dependente (pede ajuda), informal, parece valorizar a opinião de Gustavo
+amigável, colaborativo, direto, solicita ajuda e compartilha informações, demonstrando confiança.
 
 ## 💭 Assuntos Frequentes
 
@@ -32,24 +32,24 @@ brincalhão, amigável, colaborativo, dependente (pede ajuda), informal, parece 
 
 ## ⚠️ Lembrar
 
-- [ ] Reunião marcada para passar o resumo do que estão fazendo (09/01 às 22h)
-- [ ] deadline do contato com o menino de Toledo
+- [ ] reunião marcada para passar um resumo do trabalho (dia 09/01 às 22h)
+- [ ] encontro com o chefe do Anchieta (Flávio) agendado para o dia 05/01 (realizado)
+- [ ] deadline do projeto com o menino que viaja para Toledo
 
 ## ❗ Pendências
 
-- [ ] Passar o resumo do trabalho para Gustavo
+- [ ] passar o resumo de tudo que foi feito e está sendo feito (prometido para 09/01 às 22h)
+- [ ] acompanhar o andamento do projeto do 'menino' que viaja para Toledo.
 
 ## 📝 Observações
 
-> Gustavo parece ser bem informado na área de enfermagem, sendo uma fonte de conhecimento para João.
+> Gustavo parece ter um bom conhecimento técnico em enfermagem, sendo uma fonte confiável de informações e questões relacionadas à área.
 
-> Existe um projeto em comum que ambos estão trabalhando.
+> João parece confiar em Gustavo e valorizar sua opinião, buscando seu auxílio em diferentes tarefas.
 
-> A conversa sobre o 'menino de Toledo' sugere um terceiro envolvido em algum negócio/plataforma.
+> Há uma certa desconfiança em relação a uma terceira pessoa (mencionada como 'ele') que parece estar subestimando Gustavo.
 
-> Gustavo se sente duvidado por uma terceira pessoa, possivelmente alguém hierarquicamente superior.
-
-> Há uso constante de mídias, indicando uma comunicação visual frequente.
+> Gustavo está disposto a ajudar João a qualquer momento, demonstrando flexibilidade.
 
 ---
 

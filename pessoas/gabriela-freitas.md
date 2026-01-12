@@ -12,15 +12,16 @@ ultima_conversa: 2026-01-12T00:25:50-03:00
 
 ## 📋 Resumo
 
-É um relacionamento romântico intenso e carinhoso, com demonstrações frequentes de afeto. No entanto, Gabriela parece estar tentando manter uma certa distância emocional por medo de se machucar, enquanto João demonstra estar profundamente envolvido e apaixonado. Existe um filho de Gabriela, Nicolas, que também parece ser uma prioridade para ela.
+João e Gabriela têm um relacionamento amoroso carinhoso, mas com desafios devido à distância/trabalho de João. Gabriela demonstra um misto de afeto e insegurança, enquanto João se mostra atencioso e apaixonado. A comunicação é marcada por demonstrações de afeto e compartilhamento do cotidiano.
 
 ## 💼 Profissional
 
-- **Profissão:** Trabalha em loja (mencionado que precisa estar na loja às 7h)
+- **Profissão:** menciona trabalhar em uma loja
+- **Empresa:** Loja (não especificada)
 
 ## 🗣️ Como João Age
 
-Extremamente carinhoso, atencioso, mandando muitos vídeos e fotos, demonstra afeto e preocupação. Parece estar muito apaixonado.
+Extremamente carinhoso, atencioso, demonstra afeto abertamente, usa apelidos carinhosos, envia mídia frequentemente.
 
 ## 💭 Assuntos Frequentes
 
@@ -30,22 +31,30 @@ Extremamente carinhoso, atencioso, mandando muitos vídeos e fotos, demonstra af
 ## ⚠️ Lembrar
 
 - [ ] Aniversário de Gabriela (ela quer um gato persa)
-- [ ] O horário de trabalho dela (7h na loja)
+- [ ] horário de trabalho de Gabriela (ela precisa estar às 7h na loja)
+- [ ] dar atenção e carinho
+- [ ] o 'tempo' que ela pediu
 
 ## ❗ Pendências
 
-- [ ] Possivelmente comprar o gato persa para o aniversário de Gabriela
+- [ ] Dar o gato persa de aniversário (se for possível)
+- [ ] respeitar o 'tempo' que Gabriela pediu
+- [ ] manter contato e dar atenção apesar da distância
 
 ## 📝 Observações
 
-> Gabriela tem um filho chamado Nicolas, pelo qual ela demonstra grande preocupação.
+> Gabriela tem um filho chamado Nicolas, cuja saúde ela se preocupa.
 
-> Ela expressa insegurança em relação ao corpo.
+> Ela demonstra insegurança com a aparência física ('Odeio me achar gorda').
 
-> Ela parece ter receio de se apegar demais a João e sofrer, indicando uma possível vulnerabilidade emocional ou experiências passadas.
+> Ela valoriza a companhia de João e se sente sozinha quando não está com ele.
 
-> Há uma dinâmica de dar um tempo no relacionamento para evitar o apego.
+> Ela parece ter receio de se apegar demais a João, o que indica um possível histórico de relacionamentos passados.
+
+> A conversa é repleta de envios de mídia, o que sugere uma comunicação visual frequente.
+
+> Gabriela parece trabalhar em uma loja e precisa estar lá cedo.
 
 ---
 
-*Última conversa: 3 hours ago*
+*Última conversa: 4 hours ago*

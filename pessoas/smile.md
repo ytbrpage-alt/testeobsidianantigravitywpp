@@ -48,4 +48,4 @@ Profissional, colaborativo, busca validação e compartilha ideias. Demonstra co
 
 ---
 
-*Última conversa: an hour ago*
+*Última conversa: 2 hours ago*

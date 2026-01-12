@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-12T00:28:33-03:00
 
 ## 📋 Resumo
 
-Um relacionamento amoroso com forte componente de cuidado e preocupação. Há momentos de brincadeira e conexão através de piadas internas, mas também vulnerabilidade e necessidade de apoio emocional. João precisa estar atento às inseguranças de Jeciely e reafirmar seu afeto.
+Relacionamento amoroso com forte laço emocional, marcado por humor, preocupação e uma dinâmica de cuidado. A comunicação é aberta e frequente, com ambos expressando seus sentimentos de forma direta ou indireta. João demonstra ser atencioso e disposto a ajudar, enquanto Jeciely expressa vulnerabilidade e busca validação.
 
 ## 🗣️ Como João Age
 
-Carinhoso, atencioso, preocupado, brincalhão, protetor (oferece ajuda médica via Rhuan), tenta animar e distrair.
+Carinhoso, atencioso, brincalhão, preocupado com o bem-estar dela, disposto a ser 'beta' (fazer coisas por ela). Usa humor e flerte.
 
 ## 💭 Assuntos Frequentes
 
@@ -24,16 +24,26 @@ Carinhoso, atencioso, preocupado, brincalhão, protetor (oferece ajuda médica v
 
 ## ⚠️ Lembrar
 
-- [ ] O voo de Jeciely no dia seguinte (12/01), garantir que ela esteja bem de saúde para viajar, a possibilidade de que ela esteja se sentindo magoada por causa dos stories do Instagram.
+- [ ] A febre de Jeciely e o voo dela no dia seguinte.
+- [ ] Possível mal-estar causado pela chuva.
+- [ ] O sentimento de que João a bloqueou dos stories (mesmo que não tenha acontecido).
 
 ## ❗ Pendências
 
-- [ ] Verificar se Jeciely está se sentindo melhor, esclarecer o problema com os stories do Instagram, verificar o 'projeto' mencionado na mensagem sobre a IA.
+- [ ] Verificar se ela está melhor da febre.
+- [ ] Esclarecer a questão do bloqueio nos stories.
+- [ ] Resolver a questão da IA e do projeto (mencionado rapidamente)
 
 ## 📝 Observações
 
-> Jeciely parece ter momentos de insegurança e precisa de reafirmação. João deve prestar atenção para garantir que ela se sinta vista e amada. A menção de 'outra namorada' (em tom de brincadeira) sugere talvez algum tipo de insegurança ou ciúmes por parte de Jeciely.
+> Jeciely parece ser um pouco insegura e carente, buscando validação e atenção de João.
+
+> A saúde dela é uma preocupação para João.
+
+> Há uma dinâmica de 'provocação' e 'cuidado' no relacionamento.
+
+> A menção à 'outra namorada' nos stories pode indicar ciúmes ou insegurança por parte dela, mesmo que dita em tom de brincadeira.
 
 ---
 
-*Última conversa: 3 hours ago*
+*Última conversa: 4 hours ago*

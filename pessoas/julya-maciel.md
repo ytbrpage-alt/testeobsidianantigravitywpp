@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-11T10:20:03-03:00
 
 ## 📋 Resumo
 
-Julya é uma amiga próxima de João com quem ele compartilha momentos de lazer e descontração. A relação é marcada pela informalidade, brincadeiras e um toque de provocação. Existe um interesse mútuo em passar tempo juntos e compartilhar experiências.
+João e Julya têm uma amizade casual e brincalhona, marcada por convites para encontros informais e compartilhamento de experiências. A dinâmica inclui momentos de ciúmes por parte de Julya e uma certa despreocupação por parte de João, mas no geral, a relação parece ser leve e divertida.
 
 ## 🗣️ Como João Age
 
-João se comporta de forma bem informal, brincalhona e às vezes um pouco rude. Ele a convida para sair, compartilha detalhes da sua vida e família, e usa humor ácido.
+João se comporta de forma brincalhona e informal, com um tom às vezes sarcástico. Ele parece confortável em compartilhar detalhes pessoais e combinar encontros casuais, além de usar gírias e abreviações.
 
 ## 💭 Assuntos Frequentes
 
@@ -25,19 +25,16 @@ João se comporta de forma bem informal, brincalhona e às vezes um pouco rude. 
 - saúde
 - viagens
 
-## ⚠️ Lembrar
-
-- [ ] possível viagem ao Rio de Janeiro com Julya quando tiver dinheiro
-- [ ] possível problema de saúde que Julya pode ter
-
 ## ❗ Pendências
 
-- [ ] pegar exame da irmã de Julya para analisar
+- [ ] Possivelmente viajar para o Rio de Janeiro com Julya quando tiver dinheiro.
 
 ## 📝 Observações
 
-> A conversa sugere um relacionamento casual, baseado em amizade e momentos de lazer. Julya parece ser uma pessoa que João procura para se distrair e relaxar. Existe uma dinâmica de provocação e brincadeiras entre os dois. A menção ao câncer, se verdadeira, pode indicar que Julya está passando por um momento difícil e busca apoio em João, mesmo que de forma indireta e com humor.
+> A conversa contém referências a 'câncer', mas não está claro se Julya realmente tem a doença ou se é uma brincadeira interna. Julya demonstra ciúmes e impaciência quando João não responde imediatamente.
+
+> A conversa inclui gírias e abreviações, o que pode indicar uma faixa etária jovem.
 
 ---
 
-*Última conversa: 17 hours ago*
+*Última conversa: 18 hours ago*
