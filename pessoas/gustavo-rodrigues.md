@@ -5,23 +5,23 @@
 ---
 tipo: pessoa
 categoria: trabalho|amigo
-importancia: 7/10
+importancia: 8/10
 numero: undefined
 ultima_conversa: 2026-01-09T22:40:45-03:00
 ---
 
 ## 📋 Resumo
 
-João e Gustavo são amigos e parceiros de trabalho, possivelmente na área da saúde ou em um projeto relacionado. Eles colaboram, compartilham informações e se apoiam mutuamente. João se preocupa com o bem-estar de Gustavo e busca protegê-lo de possíveis explorações.
+João e Gustavo são amigos e parceiros de trabalho, provavelmente na área de saúde. João valoriza a expertise de Gustavo e está preocupado em protegê-lo de possíveis explorações por terceiros. Eles estão envolvidos em um projeto em comum e compartilham tanto assuntos profissionais quanto pessoais.
 
 ## 💼 Profissional
 
-- **Profissão:** enfermeiro/técnico de enfermagem (deduzido pelas questões e menção de que ele 'é enfermeiro')
-- **Empresa:** Anchieta (possivelmente hospital/instituição de saúde)
+- **Profissão:** enfermeiro
+- **Empresa:** Anchieta (possivelmente um hospital ou instituição de saúde)
 
 ## 🗣️ Como João Age
 
-amigável, solicita ajuda, confia, às vezes brincalhão, profissional quando necessário (passa resumos de trabalho)
+amigável, colaborativo, direto, às vezes dependente do conhecimento de Gustavo, incentivador e preocupado com o bem-estar profissional de Gustavo.
 
 ## 💭 Assuntos Frequentes
 
@@ -32,28 +32,25 @@ amigável, solicita ajuda, confia, às vezes brincalhão, profissional quando ne
 
 ## ⚠️ Lembrar
 
-- [ ] Reunião com Gustavo para passar resumo do trabalho (agendada para 22h do dia 09/01)
-- [ ] Encontro/reunião com o 'chefe do Anchieta' (Flávio Del Moro Anchieta)
-- [ ] Próxima data disponível do 'menino' (viaja com negócios) para encaixar na plataforma com Gustavo
-- [ ] Proteger Gustavo de alguém que está tentando se aproveitar dele (mencionado em 'N posso deixar ele fazer isso com a gente')
+- [ ] reunião marcada para o dia 09/01 às 22h para passar um resumo do trabalho
+- [ ] Aniversário de Gustavo (se souber)
+- [ ] Compromissos relacionados ao 'chefe do Anchieta' e à plataforma de saúde.
 
 ## ❗ Pendências
 
-- [ ] Passar resumo de tudo que foi feito e está sendo feito para Gustavo
-- [ ] Verificar a disponibilidade do 'menino' para a plataforma
+- [ ] Passar um resumo de tudo que foi feito e está sendo feito (projetos de trabalho).
+- [ ] Acompanhar a situação do 'chefe do Anchieta' e a plataforma para garantir que Gustavo não seja prejudicado.
 
 ## 📝 Observações
 
-> João parece estar envolvido em um projeto/negócio que envolve uma plataforma e outras pessoas.
+> Gustavo parece ser um profissional da área de enfermagem com bons conhecimentos técnicos.
 
-> Gustavo tem conhecimento e experiência na área de enfermagem/saúde, sendo uma fonte valiosa de informações e ajuda.
+> João está preocupado com a possibilidade de outras pessoas se aproveitarem da expertise de Gustavo.
 
-> Existe uma dinâmica de confiança e colaboração entre João e Gustavo.
+> Existe um projeto ou empreendimento em andamento que envolve João, Gustavo e possivelmente outras pessoas (relacionado à área de saúde).
 
-> João demonstra preocupação com o bem-estar de Gustavo, protegendo-o de possíveis explorações.
-
-> Gustavo parece estar ciente de que alguém ('ele') duvida de seu conhecimento, mas não se importa muito com isso.
+> A relação de amizade e profissionalismo entre João e Gustavo é evidente.
 
 ---
 
-*Última conversa: 2 days ago*
+*Última conversa: 3 days ago*

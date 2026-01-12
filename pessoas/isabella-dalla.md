@@ -12,15 +12,11 @@ ultima_conversa: 2026-01-09T09:26:09-03:00
 
 ## 📋 Resumo
 
-Isabella é uma amiga próxima e colaboradora de João, envolvida em projetos relacionados à Prefeitura. Eles compartilham uma relação de apoio mútuo, carinho e confiança, tanto no âmbito profissional quanto pessoal. João valoriza a presença e a ajuda de Isabella em seus projetos.
-
-## 💼 Profissional
-
-- **Empresa:** Pref (presumivelmente Prefeitura, dado o contexto)
+Isabella é uma amiga próxima e importante para João. Ela o apoia em seus projetos, se preocupa com seu bem-estar e parece ter conexões valiosas. João confia em Isabella e valoriza sua opinião e ajuda.
 
 ## 🗣️ Como João Age
 
-Carinhoso, atencioso, solícito, preocupado, às vezes um pouco ansioso, disposto a ajudar financeiramente, brincalhão.
+Carinhoso, atencioso, preocupado, às vezes dependente da ajuda dela, aberto sobre seus erros e inseguranças, demonstra gratidão.
 
 ## 💭 Assuntos Frequentes
 
@@ -29,27 +25,22 @@ Carinhoso, atencioso, solícito, preocupado, às vezes um pouco ansioso, dispost
 
 ## ⚠️ Lembrar
 
-- [ ] Compromissos relacionados aos projetos da Prefeitura
-- [ ] Precisa da nota fiscal do banner para Isabella (já resolvida)
-- [ ] Viagens dela
-- [ ] Evento no hospital que ele foi convidado, contato com a Daia
+- [ ] null
 
 ## ❗ Pendências
 
-- [ ] Ajudar Isabella com alguma necessidade (financeira/apoio) se ela aceitar.
-- [ ] Acompanhar os projetos da Prefeitura em que ambos estão envolvidos
+- [ ] Possivelmente enviar alguma doação para Isabella
+- [ ] Apresentar Isabella para Déia (Daia)
 
 ## 📝 Observações
 
-> Existe um forte senso de colaboração e apoio mútuo. João parece confiar muito em Isabella e valorizar sua opinião. A relação parece ser tanto profissional quanto pessoal.
+> A relação parece ser de amizade com um toque de afeto/carinho de ambos os lados.
 
-> João ofereceu ajuda financeira a Isabella demonstrando generosidade e preocupação com o bem-estar dela.
+> João demonstra vulnerabilidade e compartilha suas inseguranças com Isabella, o que indica um nível de confiança alto.
 
-> João foi oferecido um cargo na Prefeitura (ano político) e Isabella demonstra interesse para que ele aceite.
+> Isabella está envolvida em projetos/causas que João apoia.
 
-> João fechou contrato com uma agência de publicidade para trabalhar com a Prefeitura.
-
-> Isabella aparentemente está envolvida em projetos sociais na Prefeitura, onde o contato com a Daia é importante.
+> João valoriza a opinião e o apoio de Isabella.
 
 ---
 

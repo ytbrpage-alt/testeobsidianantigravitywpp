@@ -5,9 +5,9 @@
 ---
 tipo: pessoa
 categoria: romance
-importancia: 9/10
+importancia: 10/10
 numero: undefined
-ultima_conversa: 2026-01-12T06:49:04-03:00
+ultima_conversa: 2026-01-12T11:34:52-03:00
 ---
 
 ## 📋 Resumo
@@ -48,4 +48,4 @@ Extremamente carinhoso, atencioso, demonstra saudade e preocupação. Envia foto
 
 ---
 
-*Última conversa: 4 hours ago*
+*Última conversa: 13 minutes ago*

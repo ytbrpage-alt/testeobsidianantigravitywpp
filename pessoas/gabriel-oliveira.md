@@ -12,15 +12,15 @@ ultima_conversa: 2026-01-10T12:39:02-03:00
 
 ## 📋 Resumo
 
-Relação comercial entre João e um fornecedor. João busca favorecer o relacionamento com Gabriel, mas este se mantém cauteloso e focado em seus próprios interesses. Há um histórico de negócios e um potencial para futuras transações, dependendo da disponibilidade e dos termos oferecidos.
+João e Gabriel possuem uma relação comercial onde João é cliente de Gabriel na compra de Cannabis. João busca manter uma boa relação com Gabriel para garantir o acesso aos produtos, enquanto Gabriel prioriza sua segurança e lucro justo.
 
 ## 💼 Profissional
 
-- **Profissão:** Vendedor/Fornecedor (possivelmente de cannabis)
+- **Profissão:** Possivelmente vendedor/fornecedor de Cannabis
 
 ## 🗣️ Como João Age
 
-Informal, direto, busca parceria e demonstra preferência por negociar com Gabriel. Se mostra amigável e tenta estabelecer uma relação de confiança, oferecendo oportunidades.
+Informal, busca proximidade, tenta negociar e obter vantagens, mas respeita a decisão do outro. Amigável.
 
 ## 💭 Assuntos Frequentes
 
@@ -29,16 +29,22 @@ Informal, direto, busca parceria e demonstra preferência por negociar com Gabri
 
 ## ⚠️ Lembrar
 
-- [ ] Sua disponibilidade é incerta. Precisa confirmar disponibilidade antes de fazer planos.
-- [ ] Lista de preços
+- [ ] Disponibilidade de Gabriel, necessidade de fazer pedidos com antecedência, preços e condições de venda, entender que a segurança de Gabriel é prioridade.
+
+## ❗ Pendências
+
+- [ ] Possivelmente pagar pelos produtos adquiridos.
+- [ ] Considerar as necessidades e preocupações de Gabriel como fornecedor.
 
 ## 📝 Observações
 
-> A comunicação entre eles é bastante direta e objetiva, focada em negócios. Ambos parecem estar cientes dos riscos envolvidos na atividade. A mídia trocada provavelmente é de produtos ou localização.
+> João demonstra preferência por comprar com Gabriel, o que indica uma boa relação ou qualidade superior dos produtos/serviços. Gabriel parece valorizar a segurança e o lucro justo, o que pode ser crucial para manter o relacionamento comercial.
 
-> A insistência de João pode ser vista como importunação, e a falta de clareza sobre os produtos pode gerar desconfiança.
+> A comunicação é direta e focada em negócios, mas com toques de camaradagem.
 
-> João menciona 'negócios fortes' para Toledo, indicando expansão ou novas operações.
+> João tenta influenciar nos preços e condições, mas respeita os limites de Gabriel.
+
+> O uso de mídias (imagens/vídeos) pode indicar os produtos/qualidade.
 
 ---
 

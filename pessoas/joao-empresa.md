@@ -1,10 +1,10 @@
-# Joao Empresa 👔
+# Joao Empresa 💼
 
-#pessoa #trabalho
+#pessoa #negocio
 
 ---
 tipo: pessoa
-categoria: trabalho
+categoria: negocio
 importancia: 8/10
 numero: undefined
 ultima_conversa: 2026-01-11T20:49:15-03:00
@@ -12,15 +12,15 @@ ultima_conversa: 2026-01-11T20:49:15-03:00
 
 ## 📋 Resumo
 
-João e 'Joao Empresa' possuem uma relação de trabalho onde João delega tarefas de desenvolvimento web e marketing digital. A comunicação é direta e focada em instruções para implementação de projetos. 'Joao Empresa' é responsável por executar as alterações e criações solicitadas por João em seus diversos negócios.
+Este é um contato profissional crucial para a implementação de projetos de desenvolvimento web e marketing digital de João. A conversa gira em torno de instruções técnicas, requisições de tarefas e informações para aprimorar a presença online de seus negócios. João depende desta pessoa para executar tarefas específicas e manter seus projetos em andamento.
 
 ## 💼 Profissional
 
-- **Empresa:** Diversas (Atlas, Santin Aviation, Aerovida, M.A Med, Meu Plano Claro)
+- **Empresa:** Provavelmente relacionado a alguma empresa de tecnologia/desenvolvimento web/marketing digital (Ecossistema Atlas, Aerovida, SantinAviation)
 
 ## 🗣️ Como João Age
 
-Profissional, direto, dando instruções e informações específicas para tarefas.
+Profissional, direto, requisitando informações e tarefas, fornecendo detalhes técnicos e instruções.
 
 ## 💭 Assuntos Frequentes
 
@@ -30,29 +30,25 @@ Profissional, direto, dando instruções e informações específicas para taref
 
 ## ⚠️ Lembrar
 
-- [ ] Alterações nas landing pages e sites (Aerovida, Santin Aeroparts, Atlas)
-- [ ] Criação de diferentes tipos de perfis de usuário com horários e especialidades
-- [ ] Integração do Ecossistema Atlas com o WhatsApp
-- [ ] Reunião com Márcio (11/01)
-- [ ] Reunião com Lucas (12/01)
+- [ ] Configurar direcionamentos corretos para os sites (Aerovida, Santin Aeroparts)
+- [ ] Adicionar o Ecossistema Atlas ao Whatsapp
+- [ ] Criar diferentes tipos de perfis de usuário no site
+- [ ] Liberar a personalização da landing page para M.A Med
 
 ## ❗ Pendências
 
-- [ ] Realizar as alterações e implementações solicitadas por João nos sites e landing pages.
-- [ ] Criar os diferentes tipos de perfis de usuário conforme especificado.
-- [ ] Configurar o link do Ecossistema Atlas para o WhatsApp.
-- [ ] Personalizar a landing page da M.A Med.
+- [ ] Garantir que as solicitações de desenvolvimento e modificação do site sejam implementadas corretamente.
+- [ ] Monitorar o progresso da criação dos perfis de usuário.
+- [ ] Verificar a liberação da landing page da M.A Med.
 
 ## 📝 Observações
 
-> João está envolvido em diversos projetos e negócios, incluindo aviação, seguros e saúde.
+> João está envolvido em diversos projetos de desenvolvimento e marketing digital.
 
-> Ele utiliza um sistema automatizado chamado 'JARVIS ULTIMATE' para gerenciamento, o que indica familiaridade com tecnologia e automação.
+> Ele precisa de assistência para implementar mudanças específicas em seus sites.
 
-> A comunicação é focada em tarefas e instruções específicas, sugerindo uma relação de trabalho eficiente.
-
-> João busca criar diversos tipos de perfis para abranger as possibilidades em seu site.
+> Ele está trabalhando em um projeto relacionado a serviços médicos (M.A Med).
 
 ---
 
-*Última conversa: 14 hours ago*
+*Última conversa: 15 hours ago*

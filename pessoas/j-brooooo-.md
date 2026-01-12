@@ -7,7 +7,7 @@ tipo: pessoa
 categoria: romance
 importancia: 10/10
 numero: undefined
-ultima_conversa: 2026-01-12T10:42:12-03:00
+ultima_conversa: 2026-01-12T11:26:45-03:00
 ---
 
 ## 📋 Resumo
@@ -36,4 +36,4 @@ Atencioso, carinhoso, preocupado com a saúde dela, brincalhão, e demonstra um 
 
 ---
 
-*Última conversa: 5 minutes ago*
+*Última conversa: 21 minutes ago*

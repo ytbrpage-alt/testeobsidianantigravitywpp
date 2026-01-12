@@ -7,21 +7,21 @@ tipo: pessoa
 categoria: negocio
 importancia: 8/10
 numero: undefined
-ultima_conversa: 2026-01-12T10:42:45-03:00
+ultima_conversa: 2026-01-12T11:40:25-03:00
 ---
 
 ## 📋 Resumo
 
-João está prestando suporte ao dono(a) da Floricultura Bela Arte na utilização do sistema Jarvis. A relação é recente e focada na resolução de tarefas e agendamento de compromissos. O contato demonstra interesse em explorar as funcionalidades do sistema e busca automatizar suas tarefas.
+João está atuando como um assistente pessoal para o dono da Floricultura Bela Arte. O relacionamento é relativamente novo e está sendo construído através das interações com o sistema. Há algumas dificuldades técnicas e de comunicação que precisam ser superadas para que o serviço seja totalmente eficaz.
 
 ## 💼 Profissional
 
-- **Profissão:** Dono(a) da Floricultura Bela Arte
+- **Profissão:** Dono/Gerente de Floricultura
 - **Empresa:** Floricultura Bela Arte
 
 ## 🗣️ Como João Age
 
-Inicialmente formal, utilizando 'Dr. João' conforme solicitado e oferecendo assistência proativa. Adapta-se ao estilo informal do contato, mas mantém uma postura profissional. Paciente com os erros de digitação e comandos confusos, buscando esclarecimentos.
+Profissional, tentando ser útil e prestativo, mas também um pouco formal e seguindo um script/fluxo pré-definido.
 
 ## 🎯 Projetos
 
@@ -34,31 +34,31 @@ Inicialmente formal, utilizando 'Dr. João' conforme solicitado e oferecendo ass
 
 ## ⚠️ Lembrar
 
-- [ ] Reunião com Lucas (12/01)
-- [ ] Reunião com J Broo (11/01)
-- [ ] Tarefa de 'Ver sobre o aiqfome' até 12h (12/01)
+- [ ] Reunião com Lucas amanhã às 12:00
+- [ ] Reunião com a G Bro/J Broo hoje às 23:29 (corrigir o nome e associar ao contato correto)
+- [ ] Tarefa de 'Ver sobre o aiqfome' hoje até as 12h
+- [ ] Preferência de ser chamado de Dr. João
 
 ## ❗ Pendências
 
-- [ ] Possível correção do nome da reunião para 'Reunião com J Broo' e vinculação ao contato 'Floricultura Bela Arte'
-- [ ] Averiguar se a reunião com Lucas foi duplicada no calendário
-- [ ] Resolver os erros de 'historico.map is not a function' no sistema
-- [ ] Possível dificuldade em integrar o Jarvis com dispositivos domésticos (ex: ar condicionado)
+- [ ] Corrigir o nome da reunião com G Bro para J Broo e associá-la ao contato correto (Floricultura Bela Arte)
+- [ ] Resolver os erros no sistema ('historico.map is not a function')
+- [ ] Entender melhor a solicitação 'Eu urbana'
+- [ ] Investigar por que o sistema falha ao enviar mensagens em alguns momentos
+- [ ] Descobrir quem é Jeciely (possivelmente um novo contato)
 
 ## 📝 Observações
 
-> O contato demonstra interesse em testar os limites e funcionalidades do sistema Jarvis.
+> O contato está testando as capacidades do sistema e, às vezes, enviando comandos aleatórios ou sem contexto.
 
-> Há uma aparente dependência do sistema para organização e lembretes.
+> Há problemas técnicos com o sistema que precisam ser resolvidos (erros, falhas no envio de mensagens).
 
-> O contato possui um senso de humor e aprecia a colaboração.
+> O contato parece estar ocupado e tem vários compromissos.
 
-> O uso de 'Dr. João' parece ser mais uma brincadeira ou teste do que uma preferência real.
+> O contato pode ter problemas de memória ou organização, pois repete algumas perguntas.
 
-> Problemas de espaço em disco podem indicar dificuldades com organização de arquivos.
-
-> A referência ao 'Jarvis dos filmes' indica uma expectativa de automação e inteligência artificial avançada.
+> O contato usa tanto comandos de voz quanto texto.
 
 ---
 
-*Última conversa: 5 minutes ago*
+*Última conversa: 7 minutes ago*

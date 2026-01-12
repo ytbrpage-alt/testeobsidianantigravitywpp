@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-11T19:31:25-03:00
 
 ## 📋 Resumo
 
-João tem um relacionamento muito próximo e carinhoso com sua mãe. Ele se preocupa com o bem-estar dela, demonstra saudade e admira suas aventuras, mantendo-se conectado através de mensagens frequentes e compartilhamento de experiências.
+Relacionamento familiar forte entre mãe e filho. João se preocupa com o bem-estar da mãe e sente saudade. A mãe compartilha suas aventuras com o filho, mantendo-o informado e presente em sua vida.
 
 ## 🗣️ Como João Age
 
-Extremamente carinhoso, preocupado, atencioso, brincalhão e demonstra saudade. Ele expressa felicidade em vê-la feliz e se preocupa com seu bem-estar.
+Carinhoso, preocupado, brincalhão, demonstra saudade e felicidade em vê-la bem.
 
 ## 💭 Assuntos Frequentes
 
@@ -25,22 +25,20 @@ Extremamente carinhoso, preocupado, atencioso, brincalhão e demonstra saudade. 
 
 ## ⚠️ Lembrar
 
-- [ ] Data do retorno da viagem da mãe
-- [ ] Próximas viagens da mãe (considerar ir junto)
+- [ ] null
 
 ## ❗ Pendências
 
-- [ ] Buscar a mãe de madrugada no hotel (com o pai)
-- [ ] Manter contato frequente durante as viagens da mãe para demonstrar apoio e carinho
+- [ ] Buscar a mãe no hotel de madrugada com o pai.
 
 ## 📝 Observações
 
-> João demonstra um misto de preocupação e admiração pelas aventuras da mãe.
+> João demonstra preocupação com a segurança da mãe em suas aventuras.
 
-> A mãe está viajando e compartilhando ativamente suas experiências com João.
+> A mãe compartilha ativamente sua viagem com o filho, enviando fotos e vídeos.
 
-> Existe um forte vínculo afetivo entre João e sua mãe, evidenciado pela frequência das mensagens, preocupação e demonstrações de carinho.
+> João sente saudade da mãe e pede para ligar.
 
 ---
 
-*Última conversa: 15 hours ago*
+*Última conversa: 16 hours ago*

@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-11T10:20:03-03:00
 
 ## 📋 Resumo
 
-João e Julya têm um relacionamento de amizade com toques de flerte, marcado por informalidade e humor. Eles compartilham interesses em comum, como sair e fumar, mas também enfrentam momentos de tensão e impaciência. O relacionamento parece ser relativamente novo e baseado em diversão e companhia.
+Julya é uma amiga próxima de João, com quem ele compartilha momentos de lazer e desabafos. A relação é marcada pela informalidade, humor e um certo grau de provocação, sugerindo um vínculo forte e confortável entre os dois.
 
 ## 🗣️ Como João Age
 
-João se comporta de forma bem informal, brincalhona e às vezes um pouco provocadora com Julya. Ele parece confortável em compartilhar detalhes pessoais (como o carro estar com o pai) e flerta, mas também demonstra certa impaciência e sarcasmo.
+João se comporta de forma bem informal e brincalhona com Julya, às vezes até de forma provocativa. Ele parece à vontade para compartilhar seus sentimentos e planos com ela, além de não se importar em usar linguagem chula.
 
 ## 💭 Assuntos Frequentes
 
@@ -25,14 +25,23 @@ João se comporta de forma bem informal, brincalhona e às vezes um pouco provoc
 - saúde
 - viagens
 
+## ⚠️ Lembrar
+
+- [ ] Possível viagem ao Rio de Janeiro com Julya (quando tiver dinheiro), viagem para os EUA e depois para 'Eh' (provavelmente Europa)
+- [ ] Irmã de Julya tem problemas de saúde (endometriose?)
+
 ## ❗ Pendências
 
-- [ ] Viajar para o Rio de Janeiro com Julya quando tiver dinheiro.
-- [ ] Pegar os exames da irmã dela.
+- [ ] Avisar Julya quando tiver dinheiro para viajar para o Rio de Janeiro.
+- [ ] Pedir os exames da irmã dela.
 
 ## 📝 Observações
 
-> A conversa contém referências a 'f1', o que sugere o uso de maconha. A menção ao 'câncer' pode ser uma piada interna ou uma forma de Julya chamar a atenção. A troca de 'mídias' sugere o compartilhamento de fotos ou vídeos, o que pode indicar um nível maior de intimidade. A conversa tem momentos de tensão, com Julya chamando João de 'corno' e xingando, mas logo depois volta a um tom amigável. João menciona estar 'mal' e pede para Julya ir até ele, indicando que ele confia nela e busca apoio.
+> Julya pode ter uma condição de saúde (possivelmente câncer), mas a conversa sugere que João duvida da veracidade ou seriedade disso.
+
+> A conversa tem um tom bastante humorístico e sarcástico, o que pode indicar uma forma de lidar com assuntos delicados ou simplesmente um estilo de comunicação entre os dois.
+
+> O uso frequente de mídias por Julya sugere que ela pode ser uma pessoa visual ou que está tentando manter João engajado na conversa.
 
 ---
 
