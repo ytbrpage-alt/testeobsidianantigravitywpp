@@ -1,10 +1,10 @@
-# Pai 👤
+# Pai 👨‍👩‍👧
 
-#pessoa #familia|negocio|trabalho
+#pessoa #familia
 
 ---
 tipo: pessoa
-categoria: familia|negocio|trabalho
+categoria: familia
 importancia: 10/10
 numero: undefined
 ultima_conversa: 2026-01-11T07:34:46-03:00
@@ -12,15 +12,11 @@ ultima_conversa: 2026-01-11T07:34:46-03:00
 
 ## 📋 Resumo
 
-João tem uma relação próxima com o pai, tanto pessoal quanto profissionalmente. Eles trabalham juntos em uma empresa de IA, onde o pai confia em João para resolver problemas e tomar decisões. Há afeto e confiança mútua, mas também cobrança por resultados.
-
-## 💼 Profissional
-
-- **Empresa:** Empresa de IA (implícito)
+Um relacionamento familiar forte e multifacetado, onde João busca orientação e afeto do pai, enquanto também colaboram em projetos/negócios. Há uma clara hierarquia com o pai exercendo liderança, mas também demonstrando carinho e preocupação. A dinâmica envolve trabalho, responsabilidades e momentos de descontração.
 
 ## 🗣️ Como João Age
 
-Respeitoso, atencioso, busca aprovação, reporta sobre o trabalho, busca resolver problemas em conjunto, parece querer agradar e demonstrar sucesso.
+Respeitoso, atencioso, busca aprovação e auxílio, cumpre tarefas e compromissos.
 
 ## 💭 Assuntos Frequentes
 
@@ -29,33 +25,31 @@ Respeitoso, atencioso, busca aprovação, reporta sobre o trabalho, busca resolv
 
 ## ⚠️ Lembrar
 
-- [ ] Entrega do trabalho às 7h do dia seguinte (cobrar)
-- [ ] Portão da garagem com problema
+- [ ] Entrega do carro na mansão
+- [ ] Entrega de algo pronto para as 7h da manhã (sem falta)
 - [ ] Reunião de alinhamento geral às 22h
-- [ ] Desligamento do funcionário que não acredita na IA
-- [ ] Resolver pendências com os pacientes
+- [ ] Resolver problema do portão da garagem (instalar controle)
 
 ## ❗ Pendências
 
-- [ ] Resolver os problemas com os pacientes pendentes
-- [ ] Preparar o trabalho para as 7h do dia seguinte
-- [ ] Ver o portão da garagem e colocar controle
-- [ ] Mandar embora o funcionário que não acredita na IA
+- [ ] Entregar o carro na mansão
+- [ ] Entregar algo pronto para as 7h da manhã (promessa)
+- [ ] Resolver problema do portão da garagem (controle)
 
 ## 📝 Observações
 
-> A relação é de pai e filho, mas também de sócios/parceiros de negócios.
+> João parece valorizar a aprovação e o afeto do pai.
 
-> O pai parece confiar muito em João para gerenciar a empresa.
+> Há uma dinâmica de trabalho envolvida no relacionamento, onde João executa tarefas e busca orientação do pai.
 
-> Há uma necessidade de aprovação por parte de João em relação ao pai.
+> A conversa sugere que ambos estão envolvidos em um negócio/empresa que utiliza IA.
 
-> A empresa de João é fortemente baseada em IA.
+> João demonstra ter um lado mais impulsivo (decisão de demitir o funcionário)
 
-> O pai demonstra afeto, mas também cobra resultados.
+> O pai parece ser mais ponderado e oferecer conselhos.
 
-> Existe uma certa informalidade na comunicação, apesar de se tratar de assuntos de trabalho.
+> João consome maconha para lidar com o stress do trabalho.
 
 ---
 
-*Última conversa: 18 hours ago*
+*Última conversa: 19 hours ago*

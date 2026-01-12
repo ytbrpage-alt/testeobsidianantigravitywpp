@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-11T19:31:25-03:00
 
 ## 📋 Resumo
 
-João tem um relacionamento muito próximo e carinhoso com sua mãe. Ele demonstra preocupação e admiração por suas aventuras, e sente saudade quando ela está longe. A mãe, por sua vez, compartilha suas experiências com ele e demonstra afeto.
+Um relacionamento familiar forte e carinhoso entre mãe e filho. João demonstra grande preocupação e afeto pela mãe, enquanto ela compartilha suas aventuras e busca seu apoio. A comunicação é frequente e carregada de emoção.
 
 ## 🗣️ Como João Age
 
-Carinhoso, atencioso, preocupado, brincalhão e demonstra saudade.
+Carinhoso, atencioso, preocupado, brincalhão, demonstra saudade e afeto. Demonstra preocupação com o bem-estar e segurança dela.
 
 ## 💭 Assuntos Frequentes
 
@@ -25,19 +25,27 @@ Carinhoso, atencioso, preocupado, brincalhão e demonstra saudade.
 
 ## ⚠️ Lembrar
 
-- [ ] Localização exata e horário de chegada da mãe para buscá-la (no hotel que ele a levou, após parada em Realeza).
-- [ ] Próximas viagens da mãe para oferecer companhia e 'vigilância' (em tom de brincadeira).
+- [ ] Próximas viagens da mãe
+- [ ] Possível necessidade de buscar a mãe de madrugada (no hotel onde ele a levou)
+- [ ] Datas de retorno das viagens
+
+## ❗ Pendências
+
+- [ ] Ir junto nas próximas viagens (de forma brincalhona)
+- [ ] Buscar a mãe de madrugada no hotel (com o pai)
 
 ## 📝 Observações
 
-> A mãe está viajando sozinha ou com outras pessoas (não especificadas).
+> João demonstra grande preocupação com a segurança e bem-estar da mãe durante suas viagens.
 
-> João demonstra preocupação com a segurança da mãe durante suas aventuras.
+> Existe um forte laço afetivo entre eles, evidente pela demonstração de saudade e carinho.
 
-> A mãe parece gostar de compartilhar fotos e vídeos de suas experiências com João, que reage positivamente.
+> A mãe gosta de compartilhar suas experiências de viagem com o filho, enviando fotos e vídeos.
 
-> João e a mãe tem um relacionamento muito bom e próximo.
+> João expressa felicidade ao ver a mãe feliz.
+
+> A mãe demonstra confiança em João, contando com ele para buscá-la.
 
 ---
 
-*Última conversa: 6 hours ago*
+*Última conversa: 7 hours ago*

@@ -7,7 +7,7 @@ tipo: pessoa
 categoria: negocio
 importancia: 9/10
 numero: undefined
-ultima_conversa: 2026-01-11T22:48:00-03:00
+ultima_conversa: 2026-01-12T02:21:38-03:00
 ---
 
 ## 📋 Resumo
@@ -47,4 +47,4 @@ João se comporta de forma colaborativa e profissional, compartilhando informaç
 
 ---
 
-*Última conversa: 3 hours ago*
+*Última conversa: 22 minutes ago*
