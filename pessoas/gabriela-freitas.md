@@ -12,16 +12,15 @@ ultima_conversa: 2026-01-12T06:49:04-03:00
 
 ## 📋 Resumo
 
-João e Gabriela estão em um relacionamento amoroso, com demonstrações de afeto e preocupação mútua. Há uma dinâmica onde Gabriela sente necessidade de espaço para não se apegar demais, enquanto João demonstra afeto e tenta estar presente, mesmo com uma rotina aparentemente ocupada. A comunicação é facilitada pelo envio constante de fotos e vídeos.
+João e Gabriela estão em um relacionamento amoroso onde há afeto, carinho e preocupação mútua. Há uma dinâmica onde Gabriela parece precisar de mais atenção e segurança, possivelmente devido à ocupação de João. A comunicação entre eles é frequente e rica em trocas de mídia.
 
 ## 💼 Profissional
 
-- **Profissão:** Vendedora (menciona trabalhar em loja)
-- **Empresa:** Loja (não especificada)
+- **Profissão:** Trabalha em loja (precisa estar 7h na loja)
 
 ## 🗣️ Como João Age
 
-Carinhoso, atencioso, demonstra interesse na rotina de Gabriela, envia muitos vídeos/fotos.
+Extremamente carinhoso, atencioso, preocupado, brincalhão, e aparentemente apaixonado. Envia muitas mídias (fotos/vídeos). Demonstra sentir falta dela.
 
 ## 💭 Assuntos Frequentes
 
@@ -30,29 +29,29 @@ Carinhoso, atencioso, demonstra interesse na rotina de Gabriela, envia muitos v�
 
 ## ⚠️ Lembrar
 
-- [ ] Aniversário de Gabriela (ela pede um gato persa de presente)
-- [ ] Horário de trabalho de Gabriela (7h da manhã)
-- [ ] Necessidade de dar espaço a Gabriela quando ela pede
+- [ ] Aniversário de Gabriela (ela quer um gato persa), Horário de trabalho dela (começa às 7h)
+- [ ] Saúde do filho dela (Nicolas)
 
 ## ❗ Pendências
 
-- [ ] Presentear Gabriela com um gato persa (possivelmente)
-- [ ] Ser mais presente e atencioso, considerando o tempo e as necessidades dela
+- [ ] Possivelmente comprar um gato persa de presente para Gabriela.
+- [ ] Garantir que ela se sinta segura e amada, considerando as inseguranças que ela expressa.
+- [ ] Estar mais presente, já que ela mencionou precisar dar um tempo dele para não se apegar tanto.
 
 ## 📝 Observações
 
-> Gabriela tem um filho chamado Nicolas.
+> Gabriela tem um filho chamado Nicolas. Ela pede conselhos sobre a saúde dele para João, indicando um nível de confiança e intimidade.
 
-> Ela trabalha em uma loja e precisa estar lá às 7h.
+> A troca intensa de mídia é um padrão de comunicação entre eles.
 
-> Ela expressa inseguranças sobre sua aparência física.
+> Ela parece trabalhar em uma loja.
 
-> Ela demonstra que precisa de um tempo de João para não se apegar demais.
+> Ela está dando um tempo de João.
 
-> Ela valoriza o tempo e o trabalho de João, mas expressa a vontade de estar mais perto.
+> Ela demonstra certa insegurança em relação ao corpo e pede validação.
 
-> A conversa é repleta de troca de mídias, indicando que essa é uma forma importante de comunicação entre eles.
+> Ela trocou de operadora de celular recentemente.
 
 ---
 
-*Última conversa: 2 hours ago*
+*Última conversa: 3 hours ago*

@@ -12,11 +12,15 @@ ultima_conversa: 2026-01-11T07:34:46-03:00
 
 ## 📋 Resumo
 
-Um relacionamento multifacetado entre pai e filho que também são parceiros de negócios. Há forte dependência profissional e pessoal, com o pai em posição de liderança e João como um braço direito confiável. A comunicação é direta, mas com momentos de afeto e humor.
+É uma relação familiar entre pai e filho, que também se estende ao âmbito profissional. O pai é uma figura de autoridade e apoio para João, com quem compartilha responsabilidades e decisões na empresa de IA. Há uma mistura de dinâmicas profissionais e pessoais, com o pai demonstrando tanto o papel de líder quanto de pai carinhoso.
+
+## 💼 Profissional
+
+- **Empresa:** Empresa de IA (mencionada por João)
 
 ## 🗣️ Como João Age
 
-Respeitoso, solicito, busca aprovação, colaborativo, e por vezes um pouco impaciente. Demonstra senso de responsabilidade e procura cumprir prazos. Em alguns momentos, há uma informalidade que indica intimidade.
+Respeitoso, atencioso, profissional, busca aprovação e conselhos, parece haver uma dinâmica de subordinação/colaboração.
 
 ## 💭 Assuntos Frequentes
 
@@ -25,21 +29,28 @@ Respeitoso, solicito, busca aprovação, colaborativo, e por vezes um pouco impa
 
 ## ⚠️ Lembrar
 
-- [ ] entrega do carro
-- [ ] tarefas a serem prontas as 7h
-- [ ] reunião de alinhamento geral
-- [ ] resolver o problema do portão da garagem
+- [ ] Entrega do projeto às 7h (sem falta)
+- [ ] Reunião de alinhamento geral (22h)
+- [ ] Problema no portão da garagem
+- [ ] Desligamento do funcionário que não acredita na IA
 
 ## ❗ Pendências
 
-- [ ] deixar o portão da garagem funcionando com controle
-- [ ] resolver pendências com pacientes
-- [ ] demissão de funcionário que não acredita na IA
-- [ ] senha do aplicativo
+- [ ] Resolver pendências com seis pacientes
+- [ ] Colocar controle no portão da garagem
+- [ ] Comunicar desligamento do funcionário
 
 ## 📝 Observações
 
-> Existe uma dinâmica de trabalho/negócios forte entre eles. João parece estar envolvido em decisões importantes da empresa, incluindo demissões. O pai confia em João para lidar com responsabilidades significativas. A empresa parece ser focada em IA. A menção ao uso de maconha por João como forma de lidar com o stress indica um nível de pressão no trabalho.
+> Há uma dinâmica de pai e filho clara, com o pai dando instruções e João buscando aprovação.
+
+> A empresa de IA é central para o relacionamento, com discussões frequentes sobre funcionários, clientes e tecnologia.
+
+> Existe uma casa da mãe e uma mansão, indicando certo nível de conforto financeiro.
+
+> João demonstra estar sob pressão no trabalho (menciona fumar maconha para aguentar).
+
+> O pai parece valorizar o carinho e a demonstração de afeto (emoji de coração).
 
 ---
 

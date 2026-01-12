@@ -12,15 +12,15 @@ ultima_conversa: 2026-01-11T20:49:15-03:00
 
 ## 📋 Resumo
 
-Relacionamento profissional onde João delega tarefas específicas de desenvolvimento web e suporte técnico. 'Joao Empresa' parece ser um prestador de serviços essencial para a manutenção e expansão dos negócios online de João. A comunicação é direta e focada em resultados.
+É uma relação profissional onde João delega tarefas de desenvolvimento web e marketing digital. A comunicação é focada em instruções e acompanhamento. A colaboração visa impulsionar os negócios de João através da presença online e da criação de plataformas customizadas.
 
 ## 💼 Profissional
 
-- **Empresa:** Várias (SantinAviation, Aerovida, Atlas)
+- **Empresa:** Múltiplas empresas/projetos (Santin Aviation, Aerovida, Atlas)
 
 ## 🗣️ Como João Age
 
-profissional, direto, dá instruções claras e específicas sobre tarefas.
+Profissional, diretivo, com foco em tarefas e resultados. João dá instruções claras e objetivas.
 
 ## 💭 Assuntos Frequentes
 
@@ -28,19 +28,28 @@ profissional, direto, dá instruções claras e específicas sobre tarefas.
 - família
 - saúde
 
+## ⚠️ Lembrar
+
+- [ ] Prazos para as tarefas solicitadas
+- [ ] Detalhes específicos sobre cada tarefa (ex: textos a serem usados, links a serem direcionados, tipos de perfis a serem criados)
+- [ ] Certificar-se de que todas as instruções foram claras e compreendidas
+- [ ] Aprovação da personalização da landing page da M.A Med.
+
 ## ❗ Pendências
 
-- [ ] Implementar as mudanças e tarefas solicitadas por João nos websites e sistemas mencionados.
-- [ ] Criar vários tipos de perfis de usuário com diferentes características e horários.
+- [ ] Implementar as mudanças solicitadas para Santin Aviation, Aerovida e Atlas.
+- [ ] Criar diversos tipos de perfis de usuários no site (ambulância, profissionais de saúde, laboratórios, etc.).
+- [ ] Criar slugs específicas para Santin Aeroparts direcionando para o WhatsApp.
+- [ ] Adicionar o código do Google Tag Manager.
 
 ## 📝 Observações
 
-> João utiliza essa conversa para delegar tarefas bem específicas relacionadas a websites e sistemas. 'Joao Empresa' parece ser um contato de suporte técnico/desenvolvimento web. A frequência de envio de números de telefone sugere que 'Joao Empresa' possa também estar envolvido com campanhas de marketing ou geração de leads, mas isso é menos claro.
+> A comunicação é predominantemente unilateral, com João fornecendo instruções. É essencial garantir que 'Joao Empresa' tenha um bom entendimento das tarefas para evitar retrabalho.
 
-> João delegou a tarefa de criar vários perfis de usuário, o que indica que está planejando expandir um serviço ou plataforma online.
+> João está envolvido em vários projetos simultaneamente, o que pode gerar múltiplas solicitações e a necessidade de priorização.
 
-> A menção a 'JARVIS ULTIMATE Online!' e seus status indica que João utiliza um sistema automatizado ou bot para monitoramento, possivelmente de sistemas ou atividades online.
+> A criação de diferentes tipos de perfis de usuário sugere que João está envolvido em um negócio que requer uma plataforma com múltiplos usuários e funções diferentes.
 
 ---
 
-*Última conversa: 12 hours ago*
+*Última conversa: 13 hours ago*

@@ -5,9 +5,9 @@
 ---
 tipo: pessoa
 categoria: romance
-importancia: 9/10
+importancia: 10/10
 numero: undefined
-ultima_conversa: 2026-01-12T00:28:33-03:00
+ultima_conversa: 2026-01-12T09:04:58-03:00
 ---
 
 ## 📋 Resumo
@@ -36,4 +36,4 @@ Carinhoso, atencioso, brincalhão, prestativo, protetor (oferece ajuda médica)
 
 ---
 
-*Última conversa: 8 hours ago*
+*Última conversa: 43 minutes ago*
