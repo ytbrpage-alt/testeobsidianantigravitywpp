@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-11T10:20:03-03:00
 
 ## 📋 Resumo
 
-Julya e João têm um relacionamento casual e brincalhão, com elementos de flerte e um interesse mútuo em sair e se divertir. A dinâmica entre eles é marcada pela informalidade, sarcasmo e uma certa dose de provocação. Parece haver um componente de atração física e emocional, embora não esteja claro se o relacionamento é exclusivamente romântico.
+Um relacionamento de amizade divertido e informal, com possível atração mútua. Compartilham momentos de lazer e um certo nível de intimidade, mas sem grandes compromissos. Julya parece valorizar a atenção de João.
 
 ## 🗣️ Como João Age
 
-João se comporta de forma bem informal e brincalhona, com algumas pitadas de grosseria e sarcasmo. Ele parece à vontade para ser ele mesmo, mesmo que isso signifique ser um pouco rude ou inconveniente. Também parece haver um componente de flerte ou atração, mesmo que de forma implícita e casual.
+João se comporta de forma bem informal e brincalhona com Julya, usando gírias, abreviações e às vezes sendo um pouco provocador. Parece haver uma dinâmica de flerte ou atração mútua, mas com uma base de amizade. Ele compartilha detalhes da sua vida, incluindo problemas de saúde familiar e planos de viagem.
 
 ## 💭 Assuntos Frequentes
 
@@ -27,20 +27,19 @@ João se comporta de forma bem informal e brincalhona, com algumas pitadas de gr
 
 ## ⚠️ Lembrar
 
-- [ ] possível viagem ao Rio de Janeiro com Julya quando tiver dinheiro
+- [ ] Possível viagem para o Rio de Janeiro com Julya (quando tiver dinheiro)
+- [ ] Problema de saúde da irmã de Julya (endometriose?)
+
+## ❗ Pendências
+
+- [ ] Confirmar ou declinar o convite para ir ao Rio de Janeiro
 
 ## 📝 Observações
 
-> A conversa contém referências ao uso de substâncias (f1/pod).
+> Há uma possível atração mútua, mas o relacionamento parece estar mais focado em amizade e diversão.
 
-> Julya parece ser direta e não ter medo de confrontar João.
-
-> A menção ao câncer pode ser uma brincadeira ou uma referência a algo que aconteceu na live de João.
-
-> Aparentemente o pai de João está levando uma enfermeira para Cascavel.
-
-> João demitiu um médico recentemente.
+> Julya pode ser um pouco carente de atenção, a julgar pela insistência em saber onde João está e por respostas rápidas.
 
 ---
 
-*Última conversa: 20 hours ago*
+*Última conversa: a day ago*

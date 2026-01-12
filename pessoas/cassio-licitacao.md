@@ -5,41 +5,39 @@
 ---
 tipo: pessoa
 categoria: amigo|negocio|politica
-importancia: 8/10
+importancia: 7/10
 numero: undefined
 ultima_conversa: 2026-01-11T02:01:43-03:00
 ---
 
 ## 📋 Resumo
 
-João e Cássio têm uma relação próxima que mistura amizade e negócios. Cássio valoriza a opinião de João e compartilha aspectos pessoais e profissionais com ele. A relação parece ser importante para ambos, com potencial para colaboração em projetos e apoio mútuo.
+João e Cássio são amigos próximos com interesses em comum em negócios, política e eventos sociais. Cássio valoriza a opinião de João e busca seu apoio, enquanto João parece depender de Cássio para acesso a oportunidades e conexões. O relacionamento tem um componente profissional (licitações, patrocínio) além da amizade.
 
 ## 💼 Profissional
 
-- **Profissão:** Não especificada, mas envolvido com licitações
-- **Empresa:** Não especificada, mas possivelmente relacionada a licitações
+- **Empresa:** Safeeds (possível cliente/patrocinador)
 
 ## 🗣️ Como João Age
 
-Brincalhão, informal, às vezes um pouco provocador, mas também busca opiniões e acompanha o que Cássio faz.
+brincalhão, informal, curioso, às vezes dependente (pedindo carona)
 
 ## ⚠️ Lembrar
 
-- [ ] Possível compromisso de ir ao velório em Dois Vizinhos no dia 11/01, lembrar de dar feedback sobre as fotos do perfil de Cássio.
-- [ ] Possivel interesse em participar do podcast do Cassio.
+- [ ] Possível velório em Dois Vizinhos (11/01)
+- [ ] Oportunidade de patrocínio da Safeeds para o podcast
 
 ## ❗ Pendências
 
-- [ ] Dar feedback sobre a foto de perfil do Instagram de Cássio.
-- [ ] Verificar a possibilidade de patrocínio do podcast pela Safeeds.
+- [ ] Dar feedback sobre a foto de perfil de Cássio
+- [ ] Considerar ir ao velório em Dois Vizinhos
+- [ ] Acompanhar o contato da Safeeds para possível patrocínio
 
 ## 📝 Observações
 
-> Cássio parece ter um lado mais 'celebridade' com a preocupação com a imagem nas redes sociais e o convite para colaborar no podcast. A relação parece ter um componente de negócios ligado a licitações, mas também um lado pessoal forte.
+> Cássio parece valorizar a opinião de João, buscando sua aprovação e conselhos. A piada sobre clonar o celular sugere um nível de intimidade e confiança. A possibilidade de patrocínio da Safeeds para o podcast é uma oportunidade de negócio importante. Cássio tem conexões políticas (Tenente Hélio) e acesso a lugares exclusivos ('base no lago'). O uso da máscara do V de Vingança pode indicar uma inclinação política ou ideológica.
 
-> A brincadeira de 'clonar o celular' sugere um nível de intimidade considerável.
-
-> A menção de 'sua base' no lago indica um lugar de importância ou frequência para Cássio, possivelmente ligado a algum negócio ou atividade.
+> Cássio usa muitos emojis em mídias, mas não no nome.
 
 ---
 

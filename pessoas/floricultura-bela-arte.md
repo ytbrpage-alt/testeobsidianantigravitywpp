@@ -5,22 +5,23 @@
 ---
 tipo: pessoa
 categoria: negocio
-importancia: 7/10
+importancia: 8/10
 numero: undefined
 ultima_conversa: 2026-01-12T03:01:41-03:00
 ---
 
 ## 📋 Resumo
 
-Um contato de negócios cujo relacionamento está sendo mediado por um sistema de IA. A conversa recente foca em explorar as funcionalidades do sistema e integrá-lo ao fluxo de trabalho de João, com um potencial envolvimento em um projeto com o setor público.
+Um relacionamento de negócios em desenvolvimento, onde João está tentando fornecer suporte e funcionalidades através do sistema Jarvis. A comunicação é informal e a pessoa está explorando as capacidades do sistema. João precisa ter paciência e clareza para atender às necessidades dessa pessoa.
 
 ## 💼 Profissional
 
+- **Profissão:** Proprietário(a) ou funcionário(a) da Floricultura Bela Arte
 - **Empresa:** Floricultura Bela Arte
 
 ## 🗣️ Como João Age
 
-Inicialmente profissional e solícito, com um tom de assistente pessoal (Jarvis). Adapta-se ao estilo informal do contato e tenta manter a conversa amigável, usando um tom mais descontraído e até corrigindo suas próprias interpretações. Demonstra paciência com as falhas de comunicação e repetições do contato.
+Inicialmente profissional e tentando ser útil, mas demonstra impaciência e frustração com a falta de clareza e comandos repetitivos. Utiliza o título "Dr. João" conforme solicitado, mesmo que tenha sido uma pergunta hipotética. Adapta-se ao estilo informal da comunicação.
 
 ## 🎯 Projetos
 
@@ -33,22 +34,21 @@ Inicialmente profissional e solícito, com um tom de assistente pessoal (Jarvis)
 
 ## ⚠️ Lembrar
 
-- [ ] Reunião com Lucas (12:00)
-- [ ] Ver sobre o aiqfome até as 12h do dia 12/01
-- [ ] Acompanhar o andamento do projeto com o amigo próximo (setor público, saúde, expansão Paraguai).
+- [ ] Reunião com Lucas (12/01)
+- [ ] Tarefa de 'Ver sobre o aiqfome' (prazo 12/01 até 12h)
+- [ ] Necessidade de integrar com Apple Calendar ou Google Calendar
+- [ ] Possível negócio 'doido' em andamento
 
 ## ❗ Pendências
 
-- [ ] Resolver os erros técnicos do sistema (historico.map is not a function)
-- [ ] Integrar o sistema com o Apple Calendar ou Google Calendar
-- [ ] Entender o envolvimento da 'Floricultura Bela Arte' no projeto com o amigo próximo.
+- [ ] Integrar com Apple Calendar ou Google Calendar
+- [ ] Resolver problemas técnicos (erros: historico.map is not a function)
+- [ ] Entender melhor o 'negócio doido' e como pode ajudar
 
 ## 📝 Observações
 
-> O contato utiliza um estilo de comunicação bastante informal e comete erros de digitação. Pode ser necessário adaptar a comunicação para garantir clareza e evitar mal-entendidos.
-
-> A pessoa está testando os limites e capacidades do sistema de IA, o que indica um interesse em otimizar seu tempo e organização. Ela aprecia a capacidade de personalização e análise detalhada.
+> A pessoa valoriza a capacidade de personalização do sistema. A pessoa está testando os limites do sistema e pode precisar de mais orientação sobre como usá-lo de forma eficaz. A pessoa tem problemas para se expressar de forma clara e concisa, o que pode levar a erros de interpretação pelo sistema. As repetições de comando pode ser um teste para o sistema se ele lembra do contexto da conversa.
 
 ---
 
-*Última conversa: 4 hours ago*
+*Última conversa: 6 hours ago*

@@ -7,21 +7,21 @@ tipo: pessoa
 categoria: romance
 importancia: 9/10
 numero: undefined
-ultima_conversa: 2026-01-12T00:25:50-03:00
+ultima_conversa: 2026-01-12T06:49:04-03:00
 ---
 
 ## 📋 Resumo
 
-João e Gabriela têm um relacionamento amoroso carinhoso, mas com desafios devido à distância/trabalho de João. Gabriela demonstra um misto de afeto e insegurança, enquanto João se mostra atencioso e apaixonado. A comunicação é marcada por demonstrações de afeto e compartilhamento do cotidiano.
+João e Gabriela estão em um relacionamento amoroso, com demonstrações de afeto e preocupação mútua. Há uma dinâmica onde Gabriela sente necessidade de espaço para não se apegar demais, enquanto João demonstra afeto e tenta estar presente, mesmo com uma rotina aparentemente ocupada. A comunicação é facilitada pelo envio constante de fotos e vídeos.
 
 ## 💼 Profissional
 
-- **Profissão:** menciona trabalhar em uma loja
+- **Profissão:** Vendedora (menciona trabalhar em loja)
 - **Empresa:** Loja (não especificada)
 
 ## 🗣️ Como João Age
 
-Extremamente carinhoso, atencioso, demonstra afeto abertamente, usa apelidos carinhosos, envia mídia frequentemente.
+Carinhoso, atencioso, demonstra interesse na rotina de Gabriela, envia muitos vídeos/fotos.
 
 ## 💭 Assuntos Frequentes
 
@@ -30,31 +30,29 @@ Extremamente carinhoso, atencioso, demonstra afeto abertamente, usa apelidos car
 
 ## ⚠️ Lembrar
 
-- [ ] Aniversário de Gabriela (ela quer um gato persa)
-- [ ] horário de trabalho de Gabriela (ela precisa estar às 7h na loja)
-- [ ] dar atenção e carinho
-- [ ] o 'tempo' que ela pediu
+- [ ] Aniversário de Gabriela (ela pede um gato persa de presente)
+- [ ] Horário de trabalho de Gabriela (7h da manhã)
+- [ ] Necessidade de dar espaço a Gabriela quando ela pede
 
 ## ❗ Pendências
 
-- [ ] Dar o gato persa de aniversário (se for possível)
-- [ ] respeitar o 'tempo' que Gabriela pediu
-- [ ] manter contato e dar atenção apesar da distância
+- [ ] Presentear Gabriela com um gato persa (possivelmente)
+- [ ] Ser mais presente e atencioso, considerando o tempo e as necessidades dela
 
 ## 📝 Observações
 
-> Gabriela tem um filho chamado Nicolas, cuja saúde ela se preocupa.
+> Gabriela tem um filho chamado Nicolas.
 
-> Ela demonstra insegurança com a aparência física ('Odeio me achar gorda').
+> Ela trabalha em uma loja e precisa estar lá às 7h.
 
-> Ela valoriza a companhia de João e se sente sozinha quando não está com ele.
+> Ela expressa inseguranças sobre sua aparência física.
 
-> Ela parece ter receio de se apegar demais a João, o que indica um possível histórico de relacionamentos passados.
+> Ela demonstra que precisa de um tempo de João para não se apegar demais.
 
-> A conversa é repleta de envios de mídia, o que sugere uma comunicação visual frequente.
+> Ela valoriza o tempo e o trabalho de João, mas expressa a vontade de estar mais perto.
 
-> Gabriela parece trabalhar em uma loja e precisa estar lá cedo.
+> A conversa é repleta de troca de mídias, indicando que essa é uma forma importante de comunicação entre eles.
 
 ---
 
-*Última conversa: 6 hours ago*
+*Última conversa: 2 hours ago*

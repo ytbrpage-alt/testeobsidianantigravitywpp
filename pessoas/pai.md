@@ -1,10 +1,10 @@
-# Pai 👨‍👩‍👧
+# Pai 👤
 
-#pessoa #familia
+#pessoa #familia|negocio|trabalho
 
 ---
 tipo: pessoa
-categoria: familia
+categoria: familia|negocio|trabalho
 importancia: 10/10
 numero: undefined
 ultima_conversa: 2026-01-11T07:34:46-03:00
@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-11T07:34:46-03:00
 
 ## 📋 Resumo
 
-João e seu pai têm um relacionamento próximo, tanto pessoal quanto profissional. Eles trabalham juntos em uma empresa focada em IA, onde João parece ter um papel de liderança. Apesar de demonstrarem afeto, há uma dinâmica de cobrança e responsabilidade envolvida na relação.
+Um relacionamento multifacetado entre pai e filho que também são parceiros de negócios. Há forte dependência profissional e pessoal, com o pai em posição de liderança e João como um braço direito confiável. A comunicação é direta, mas com momentos de afeto e humor.
 
 ## 🗣️ Como João Age
 
-Respeitoso, solícito, busca aprovação, às vezes um pouco impaciente, parece ter um senso de responsabilidade em relação ao pai.
+Respeitoso, solicito, busca aprovação, colaborativo, e por vezes um pouco impaciente. Demonstra senso de responsabilidade e procura cumprir prazos. Em alguns momentos, há uma informalidade que indica intimidade.
 
 ## 💭 Assuntos Frequentes
 
@@ -25,31 +25,21 @@ Respeitoso, solícito, busca aprovação, às vezes um pouco impaciente, parece 
 
 ## ⚠️ Lembrar
 
-- [ ] Entregar o carro na mansão (06/01)
-- [ ] Problemas no portão da garagem
-- [ ] Reunião de alinhamento geral (09/01)
-- [ ] Desligamento do funcionário que não acredita na IA (Rhua)
+- [ ] entrega do carro
+- [ ] tarefas a serem prontas as 7h
+- [ ] reunião de alinhamento geral
+- [ ] resolver o problema do portão da garagem
 
 ## ❗ Pendências
 
-- [ ] Deixar tudo pronto para amanhã (07/01) às 7h
-- [ ] Instalar um controle para o portão da garagem
+- [ ] deixar o portão da garagem funcionando com controle
+- [ ] resolver pendências com pacientes
+- [ ] demissão de funcionário que não acredita na IA
+- [ ] senha do aplicativo
 
 ## 📝 Observações
 
-> João parece estar em uma posição de liderança na empresa, já que toma decisões sobre demissões e define estratégias.
-
-> A empresa de João é focada em IA.
-
-> O pai de João parece ter um papel importante na gestão da empresa, mas pode estar delegando mais responsabilidades a Gustavo.
-
-> Há uma dinâmica de trabalho familiar presente na relação.
-
-> João usa maconha para lidar com o stress no trabalho.
-
-> A mansão é um local importante para eles.
-
-> O pai de João aparentemente está tendo dificuldades para recuperar uma senha usando reconhecimento facial e o aplicativo.
+> Existe uma dinâmica de trabalho/negócios forte entre eles. João parece estar envolvido em decisões importantes da empresa, incluindo demissões. O pai confia em João para lidar com responsabilidades significativas. A empresa parece ser focada em IA. A menção ao uso de maconha por João como forma de lidar com o stress indica um nível de pressão no trabalho.
 
 ---
 

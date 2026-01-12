@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-11T19:31:25-03:00
 
 ## 📋 Resumo
 
-Um relacionamento familiar muito próximo e afetuoso entre mãe e filho. João demonstra grande preocupação e carinho pela mãe, acompanhando suas aventuras e expressando saudades. A mãe compartilha suas experiências com ele, criando um vínculo forte e comunicativo.
+João tem um relacionamento muito próximo e carinhoso com a mãe. Ele se preocupa com o seu bem-estar e demonstra admiração pelas suas aventuras. A mãe, por sua vez, compartilha suas experiências com ele e demonstra afeto.
 
 ## 🗣️ Como João Age
 
-Carinhoso, atencioso, preocupado, brincalhão e demonstra afeto. Ele se mostra interessado nas atividades dela e expressa saudades.
+Carinhoso, atencioso, preocupado, brincalhão e demonstra admiração.
 
 ## 💭 Assuntos Frequentes
 
@@ -25,23 +25,21 @@ Carinhoso, atencioso, preocupado, brincalhão e demonstra afeto. Ele se mostra i
 
 ## ⚠️ Lembrar
 
-- [ ] Viagens e compromissos da mãe (como a viagem para Quilombo e o retorno para Realeza)
-- [ ] Buscar a mãe no hotel após a viagem
+- [ ] null
 
 ## ❗ Pendências
 
-- [ ] Buscar a mãe no hotel em Realeza
+- [ ] Ir junto nas próximas aventuras da mãe
+- [ ] Buscar a mãe de madrugada no hotel (com o pai)
 
 ## 📝 Observações
 
-> João demonstra um misto de preocupação e admiração pelas aventuras da mãe.
+> João demonstra um certo nível de preocupação com a mãe, especialmente quando ela está viajando e realizando atividades consideradas 'aventureiras'.
 
-> A mãe parece ser bastante ativa e gostar de novidades.
+> A mãe parece ser bastante ativa e independente.
 
-> Há um forte laço de afeto e comunicação entre os dois.
-
-> João expressa o desejo de participar das próximas viagens da mãe, demonstrando que valoriza o tempo com ela.
+> Existe um forte laço afetivo entre os dois, com demonstrações de carinho e saudade.
 
 ---
 
-*Última conversa: 11 hours ago*
+*Última conversa: 13 hours ago*
