@@ -12,11 +12,15 @@ ultima_conversa: 2026-01-09T09:26:09-03:00
 
 ## 📋 Resumo
 
-João e Isabella têm um relacionamento de amizade forte, com muita parceria e apoio mútuo, seja em projetos profissionais ou no bem-estar pessoal. Eles se preocupam um com o outro e colaboram em diversas atividades, principalmente eventos e projetos sociais. Existe um vínculo de confiança e carinho entre os dois.
+Isabella é uma amiga próxima e colaboradora de João, envolvida em projetos relacionados à Prefeitura. Eles compartilham uma relação de apoio mútuo, carinho e confiança, tanto no âmbito profissional quanto pessoal. João valoriza a presença e a ajuda de Isabella em seus projetos.
+
+## 💼 Profissional
+
+- **Empresa:** Pref (presumivelmente Prefeitura, dado o contexto)
 
 ## 🗣️ Como João Age
 
-João se comporta de forma carinhosa e atenciosa, demonstrando preocupação e oferecendo ajuda. Ele utiliza apelidos carinhosos e se mostra solícito em relação às necessidades dela.
+Carinhoso, atencioso, solícito, preocupado, às vezes um pouco ansioso, disposto a ajudar financeiramente, brincalhão.
 
 ## 💭 Assuntos Frequentes
 
@@ -25,25 +29,27 @@ João se comporta de forma carinhosa e atenciosa, demonstrando preocupação e o
 
 ## ⚠️ Lembrar
 
-- [ ] compromissos relacionados aos projetos/eventos que estão trabalhando juntos
-- [ ] datas de eventos que ela está organizando
-- [ ] viagens dela (se houver)
-- [ ] aniversário dela (desconhecido, mas importante dado o nível de proximidade)
+- [ ] Compromissos relacionados aos projetos da Prefeitura
+- [ ] Precisa da nota fiscal do banner para Isabella (já resolvida)
+- [ ] Viagens dela
+- [ ] Evento no hospital que ele foi convidado, contato com a Daia
 
 ## ❗ Pendências
 
-- [ ] garantir que Isabella tenha todas as informações/documentos necessários para os projetos
-- [ ] continuar a oferecer apoio e ajuda nos projetos em que ela está envolvida
+- [ ] Ajudar Isabella com alguma necessidade (financeira/apoio) se ela aceitar.
+- [ ] Acompanhar os projetos da Prefeitura em que ambos estão envolvidos
 
 ## 📝 Observações
 
-> Existe um forte senso de parceria e apoio mútuo entre João e Isabella.
+> Existe um forte senso de colaboração e apoio mútuo. João parece confiar muito em Isabella e valorizar sua opinião. A relação parece ser tanto profissional quanto pessoal.
 
-> Isabella parece estar envolvida em trabalho social ou voluntário, dado o contexto das doações.
+> João ofereceu ajuda financeira a Isabella demonstrando generosidade e preocupação com o bem-estar dela.
 
-> João parece confiar na opinião e no trabalho de Isabella.
+> João foi oferecido um cargo na Prefeitura (ano político) e Isabella demonstra interesse para que ele aceite.
 
-> Isabella está ajudando em projetos nos quais João está envolvido, e se preocupa com a saúde e bem estar de João
+> João fechou contrato com uma agência de publicidade para trabalhar com a Prefeitura.
+
+> Isabella aparentemente está envolvida em projetos sociais na Prefeitura, onde o contato com a Daia é importante.
 
 ---
 

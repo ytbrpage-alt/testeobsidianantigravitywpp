@@ -57,4 +57,4 @@ Extremamente carinhoso, atencioso, demonstra afeto abertamente, usa apelidos car
 
 ---
 
-*Última conversa: 5 hours ago*
+*Última conversa: 6 hours ago*

@@ -1,10 +1,10 @@
-# Dr Luma 👔
+# Dr Luma 💼
 
-#pessoa #trabalho
+#pessoa #negocio
 
 ---
 tipo: pessoa
-categoria: trabalho
+categoria: negocio
 importancia: 9/10
 numero: undefined
 ultima_conversa: 2026-01-09T13:06:23-03:00
@@ -12,16 +12,16 @@ ultima_conversa: 2026-01-09T13:06:23-03:00
 
 ## 📋 Resumo
 
-João e Dr. Luma possuem um relacionamento profissional próximo e colaborativo. Ela atua como conselheira e fonte de informação para João em seus projetos relacionados à saúde pública e gestão, especialmente dentro do HOESP e da prefeitura. Há um alto nível de confiança e respeito mútuo.
+Dra. Luma é uma conselheira e colaboradora importante para João em seus negócios na área da saúde. Ela oferece insights valiosos, está bem conectada e parece genuinamente interessada em ajudá-lo a ter sucesso. O relacionamento é profissional e baseado em confiança mútua.
 
 ## 💼 Profissional
 
-- **Profissão:** Médica (presumivelmente, devido ao título 'Dr.')
-- **Empresa:** HOESP (Hospital Oeste do Paraná) e Secretaria de Saúde (mencionado indiretamente)
+- **Profissão:** Médica (pela forma como se refere a assuntos de saúde e hospitais)
+- **Empresa:** HOESP (Hospital Oeste do Paraná) - mencionado como local onde alguém trabalha
 
 ## 🗣️ Como João Age
 
-Profissional, solicita conselhos, compartilha informações sobre seus projetos e busca a opinião dela, parece valorizar o conhecimento dela na área de saúde e gestão.
+Profissional, colaborativo, pede conselhos, compartilha informações sobre seus projetos e busca encaixar compromissos na agenda dela.
 
 ## 💭 Assuntos Frequentes
 
@@ -30,15 +30,19 @@ Profissional, solicita conselhos, compartilha informações sobre seus projetos 
 
 ## ⚠️ Lembrar
 
-- [ ] Reunião com a secretaria de saúde (8:30h), horário com a flexicel, chegada de Fernando.
-
-## ❗ Pendências
-
-- [ ] Avisar o secretário da hora que estiver livre, mandar fotos/documentos sobre o projeto no lago para Dr. Luma, fazer os jalequinhos para os cuidadores.
+- [ ] Encaixar um horário para ela na sua agenda (07/01)
+- [ ] Avisá-la quando Fernando chegar (09/01)
+- [ ] Lembrar do nome da enfermeira Bruna Longo, da CCIH, amiga da Juliana do HOESP
 
 ## 📝 Observações
 
-> Dr. Luma tem conhecimento interno do HOESP, inclusive sobre a equipe e possíveis movimentações. Ela parece ter uma boa rede de contatos na área da saúde. João confia nas opiniões e conselhos dela.
+> Dra. Luma tem bons contatos e conhecimento dentro do HOESP.
+
+> Ela parece ter experiência em gestão de equipes e eventos de saúde.
+
+> Ela sugere soluções práticas e eficientes para os desafios que João enfrenta.
+
+> A conversa sobre a enfermeira Bruna Longo indica que há alguma questão política ou de gestão de pessoas no HOESP que pode afetar os negócios de João.
 
 ---
 

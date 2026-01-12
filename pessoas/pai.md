@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-11T07:34:46-03:00
 
 ## 📋 Resumo
 
-Um relacionamento familiar próximo, onde o pai desempenha um papel importante tanto na vida pessoal quanto profissional de João. Há uma dinâmica de trabalho estabelecida, com o pai atuando como mentor e cobrando resultados. Apesar das responsabilidades, há também momentos de afeto e descontração.
+João e seu pai têm um relacionamento próximo, tanto pessoal quanto profissional. Eles trabalham juntos em uma empresa focada em IA, onde João parece ter um papel de liderança. Apesar de demonstrarem afeto, há uma dinâmica de cobrança e responsabilidade envolvida na relação.
 
 ## 🗣️ Como João Age
 
-Respeitoso, atencioso, busca aprovação e cumpre tarefas, por vezes com certa informalidade.
+Respeitoso, solícito, busca aprovação, às vezes um pouco impaciente, parece ter um senso de responsabilidade em relação ao pai.
 
 ## 💭 Assuntos Frequentes
 
@@ -25,29 +25,31 @@ Respeitoso, atencioso, busca aprovação e cumpre tarefas, por vezes com certa i
 
 ## ⚠️ Lembrar
 
-- [ ] Entrega do carro na mansão
-- [ ] Resolver a questão dos 6 pacientes pendentes
-- [ ] Verificar o portão da garagem
-- [ ] Reunião de alinhamento geral (22h)
-- [ ] Demissão de Rhuan
+- [ ] Entregar o carro na mansão (06/01)
+- [ ] Problemas no portão da garagem
+- [ ] Reunião de alinhamento geral (09/01)
+- [ ] Desligamento do funcionário que não acredita na IA (Rhua)
 
 ## ❗ Pendências
 
-- [ ] Resolver os problemas com 6 pacientes
-- [ ] Instalar controle no portão da garagem
-- [ ] Garantir que tudo esteja pronto até 7h (tarefa não especificada)
+- [ ] Deixar tudo pronto para amanhã (07/01) às 7h
+- [ ] Instalar um controle para o portão da garagem
 
 ## 📝 Observações
 
-> Há uma dinâmica de trabalho entre eles, com o pai delegando tarefas e cobrando resultados.
+> João parece estar em uma posição de liderança na empresa, já que toma decisões sobre demissões e define estratégias.
 
-> João parece buscar a aprovação do pai.
+> A empresa de João é focada em IA.
 
-> O pai parece ter um papel de liderança/mentor na vida de João.
+> O pai de João parece ter um papel importante na gestão da empresa, mas pode estar delegando mais responsabilidades a Gustavo.
 
-> Há momentos de descontração e afeto, apesar do foco principal ser em trabalho.
+> Há uma dinâmica de trabalho familiar presente na relação.
 
-> A opinião do pai sobre os funcionários da empresa de João é levada em consideração.
+> João usa maconha para lidar com o stress no trabalho.
+
+> A mansão é um local importante para eles.
+
+> O pai de João aparentemente está tendo dificuldades para recuperar uma senha usando reconhecimento facial e o aplicativo.
 
 ---
 

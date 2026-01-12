@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-11T19:31:25-03:00
 
 ## 📋 Resumo
 
-Um relacionamento familiar muito próximo e carinhoso entre mãe e filho. João se preocupa com o bem-estar e a segurança da mãe, enquanto ela compartilha suas experiências e mantém contato frequente. Há um forte vínculo emocional e saudade demonstrados por ambos.
+Um relacionamento familiar muito próximo e afetuoso entre mãe e filho. João demonstra grande preocupação e carinho pela mãe, acompanhando suas aventuras e expressando saudades. A mãe compartilha suas experiências com ele, criando um vínculo forte e comunicativo.
 
 ## 🗣️ Como João Age
 
-Extremamente carinhoso, atencioso, preocupado e demonstra saudade. Usa emojis e diminutivos. Tem um tom brincalhão, mas demonstra genuína preocupação com o bem-estar dela.
+Carinhoso, atencioso, preocupado, brincalhão e demonstra afeto. Ele se mostra interessado nas atividades dela e expressa saudades.
 
 ## 💭 Assuntos Frequentes
 
@@ -25,18 +25,23 @@ Extremamente carinhoso, atencioso, preocupado e demonstra saudade. Usa emojis e 
 
 ## ⚠️ Lembrar
 
-- [ ] Horário e local para buscar a mãe na volta da viagem (madrugada, no hotel que ele a levou), paradas em Realeza.
+- [ ] Viagens e compromissos da mãe (como a viagem para Quilombo e o retorno para Realeza)
+- [ ] Buscar a mãe no hotel após a viagem
 
 ## ❗ Pendências
 
-- [ ] Buscar a mãe na volta da viagem.
+- [ ] Buscar a mãe no hotel em Realeza
 
 ## 📝 Observações
 
-> João demonstra uma preocupação genuína com a segurança e o bem-estar da mãe durante a viagem. Há um forte senso de carinho e conexão entre os dois. A mãe compartilha ativamente sua experiência de viagem com João, o que indica uma relação de confiança e proximidade.
+> João demonstra um misto de preocupação e admiração pelas aventuras da mãe.
 
-> João menciona 'volta logo' e 'ja ta saindo demais a menina', indicando talvez que a mãe tem saído bastante e ele sente falta.
+> A mãe parece ser bastante ativa e gostar de novidades.
+
+> Há um forte laço de afeto e comunicação entre os dois.
+
+> João expressa o desejo de participar das próximas viagens da mãe, demonstrando que valoriza o tempo com ela.
 
 ---
 
-*Última conversa: 10 hours ago*
+*Última conversa: 11 hours ago*

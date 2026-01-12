@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-11T10:20:03-03:00
 
 ## 📋 Resumo
 
-Julya é uma amiga próxima de João, com quem ele compartilha momentos de lazer e desabafos. A relação é marcada por informalidade, humor e um certo nível de provocação amigável. Eles parecem ter uma dinâmica de amizade sólida, com interesses em comum e preocupação mútua.
+Julya e João têm um relacionamento casual e brincalhão, com elementos de flerte e um interesse mútuo em sair e se divertir. A dinâmica entre eles é marcada pela informalidade, sarcasmo e uma certa dose de provocação. Parece haver um componente de atração física e emocional, embora não esteja claro se o relacionamento é exclusivamente romântico.
 
 ## 🗣️ Como João Age
 
-João se comporta de forma bem informal, brincalhão e às vezes um pouco confusa. Ele parece estar à vontade para compartilhar sobre seus problemas e usar humor. Flerta as vezes, mas de forma leve.
+João se comporta de forma bem informal e brincalhona, com algumas pitadas de grosseria e sarcasmo. Ele parece à vontade para ser ele mesmo, mesmo que isso signifique ser um pouco rude ou inconveniente. Também parece haver um componente de flerte ou atração, mesmo que de forma implícita e casual.
 
 ## 💭 Assuntos Frequentes
 
@@ -25,17 +25,22 @@ João se comporta de forma bem informal, brincalhão e às vezes um pouco confus
 - saúde
 - viagens
 
-## ❗ Pendências
+## ⚠️ Lembrar
 
-- [ ] Considerar ir ao Rio de Janeiro com Julya quando tiver dinheiro.
-- [ ] Pegar o exame da irmã de Julya para analisar.
+- [ ] possível viagem ao Rio de Janeiro com Julya quando tiver dinheiro
 
 ## 📝 Observações
 
-> A conversa contém referências a 'f1' e 'pod', indicando possível uso de maconha e vape. Julya menciona que não consegue ficar sem pod. João parece ter problemas com o pai, que está usando o carro para levar uma enfermeira para Cascavel. Julya parece estar ciente de alguns problemas de saúde de João, possivelmente relacionados a câncer, mas pode ser uma piada interna.
+> A conversa contém referências ao uso de substâncias (f1/pod).
 
-> A relação deles aparenta ser mais de amizade do que romântica, apesar de algumas interações que podem ser interpretadas como flerte.
+> Julya parece ser direta e não ter medo de confrontar João.
+
+> A menção ao câncer pode ser uma brincadeira ou uma referência a algo que aconteceu na live de João.
+
+> Aparentemente o pai de João está levando uma enfermeira para Cascavel.
+
+> João demitiu um médico recentemente.
 
 ---
 
-*Última conversa: 19 hours ago*
+*Última conversa: 20 hours ago*

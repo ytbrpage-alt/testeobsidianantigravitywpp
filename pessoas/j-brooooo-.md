@@ -12,11 +12,11 @@ ultima_conversa: 2026-01-12T00:28:33-03:00
 
 ## 📋 Resumo
 
-João e Jeciely têm um relacionamento romântico com toques de humor e brincadeiras. João demonstra afeto e preocupação com o bem-estar dela, enquanto Jeciely busca sua atenção e carinho, às vezes de forma um pouco dramática. A comunicação deles parece ser frequente e informal.
+João e Jeciely têm um relacionamento romântico e afetuoso, com uma dinâmica divertida e brincalhona. João se preocupa com a saúde e bem-estar dela, enquanto ela aprecia a atenção e o carinho dele, mesmo quando o provoca.
 
 ## 🗣️ Como João Age
 
-Carinhoso, atencioso, brincalhão, preocupado com o bem-estar dela, tenta ser engraçado e demonstra afeto. Age de forma um pouco 'beta', disposto a fazer coisas para agradá-la.
+Carinhoso, atencioso, brincalhão, protetor, demonstrando preocupação com a saúde e bem-estar dela. Tenta ser engraçado e usa de auto-depreciação para agradá-la.
 
 ## 💭 Assuntos Frequentes
 
@@ -24,27 +24,18 @@ Carinhoso, atencioso, brincalhão, preocupado com o bem-estar dela, tenta ser en
 
 ## ⚠️ Lembrar
 
-- [ ] Voo dela (possivelmente no dia seguinte às mensagens)
-- [ ] Problema com os stories (resolver o bloqueio)
-- [ ] Estado de saúde dela (acompanhar a febre e outros sintomas)
-- [ ] Projetos que a IA mencionou
+- [ ] Possível voo de Jeciely no dia seguinte (12/01), Estado de saúde de Jeciely (febre, enxaqueca), Possível problema com o acesso dela aos stories do Instagram dele.
 
 ## ❗ Pendências
 
-- [ ] Resolver o problema do bloqueio nos stories
-- [ ] Verificar os 'projetos' mencionados pela IA
-- [ ] Acompanhar o estado de saúde de Jeciely e oferecer ajuda
+- [ ] Verificar porque Jeciely não estava conseguindo ver os stories dele, acompanhar a melhora da saúde dela.
 
 ## 📝 Observações
 
-> Ela parece ser um pouco insegura e carente, buscando validação e atenção de João.
+> Jeciely parece estar chateada por achar que João a ocultou dos stories do Instagram. João tem um amigo chamado Rhuan que é da área da medicina.
 
-> A referência ao 'Beta da montanha' sugere uma dinâmica de relacionamento específica que vale a pena entender melhor.
-
-> A menção a 'outra namorada' nos stories (mesmo que em tom de brincadeira) pode indicar ciúmes ou insegurança da parte dela.
-
-> Rhuan é provavelmente um amigo em comum ou alguém próximo que trabalha na área da saúde.
+> João está trabalhando em um projeto com IA (mencionado na última mensagem).
 
 ---
 
-*Última conversa: 5 hours ago*
+*Última conversa: 6 hours ago*
