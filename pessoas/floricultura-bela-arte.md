@@ -7,7 +7,7 @@ tipo: pessoa
 categoria: negocio
 importancia: 8/10
 numero: undefined
-ultima_conversa: 2026-01-12T02:44:00-03:00
+ultima_conversa: 2026-01-12T02:45:07-03:00
 ---
 
 ## 📋 Resumo
@@ -50,4 +50,4 @@ Profissional e direto, busca resolver questões práticas relacionadas aos negó
 
 ---
 
-*Última conversa: a few seconds ago*
+*Última conversa: 3 minutes ago*
