@@ -1,11 +1,11 @@
-# Marido luma 💼
+# Marido luma 👨‍👩‍👧
 
-#pessoa #negocio
+#pessoa #familia
 
 ---
 tipo: pessoa
-categoria: negocio
-importancia: 8/10
+categoria: familia
+importancia: 7/10
 numero: undefined
 ultima_conversa: 2026-01-11T11:45:44-03:00
 ---
@@ -13,6 +13,10 @@ ultima_conversa: 2026-01-11T11:45:44-03:00
 ## 📋 Resumo
 
 Um relacionamento de negócios em desenvolvimento, focado em um projeto possivelmente ligado à política ou ao governo. Há uma dependência de Henrique para questões burocráticas. João precisa resolver o problema do NDA para que a parceria avance.
+
+## 💼 Profissional
+
+- **Profissão:** Político/Assessor
 
 ## 🗣️ Como João Age
 

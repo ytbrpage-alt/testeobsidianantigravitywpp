@@ -1,10 +1,10 @@
 # 🧠 JARVIS Knowledge Graph
 
-Exportado em: 12/01/2026 13:58
+Exportado em: 12/01/2026 17:22
 
 ## 📊 Estatísticas
 
-- **Pessoas:** 90
+- **Pessoas:** 91
 - **Projetos:** 3
 - **Eventos de Vida:** 0
 

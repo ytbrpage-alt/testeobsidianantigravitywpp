@@ -1,49 +1,52 @@
-# Cassio Licitacao 👤
+# Cassio Licitacao 👨‍👩‍👧
 
-#pessoa #amigo|negocio|politica
+#pessoa #familia
 
 ---
 tipo: pessoa
-categoria: amigo|negocio|politica
-importancia: 7/10
+categoria: familia
+importancia: 9/10
 numero: undefined
 ultima_conversa: 2026-01-11T02:01:43-03:00
 ---
 
 ## 📋 Resumo
 
-João e Cássio são amigos próximos com uma relação que mistura negócios, política e momentos de descontração. Cássio valoriza a opinião de João e busca seu apoio, enquanto João demonstra interesse na vida de Cássio e busca sua companhia. A relação parece baseada em confiança e interesses em comum.
+João e Cássio têm um relacionamento de amizade e negócios. Cássio busca a opinião de João e parece valorizar sua presença, enquanto João interage de forma brincalhona e, ao mesmo tempo, demonstra consideração e interesse nos negócios de Cássio.
 
 ## 💼 Profissional
 
-- **Empresa:** Safeeds (potencialmente)
+- **Profissão:** Político/Assessor
+- **Empresa:** eu
 
 ## 🗣️ Como João Age
 
-Brincalhão, informal, busca aprovação e conselhos, às vezes um pouco invasivo (clonagem do celular)
+Brincalhão, às vezes provocador, mas também parece valorizar a opinião de Cássio. Há momentos de descontração e convites para sair.
+
+## 💭 Assuntos Frequentes
+
+- financeiro
+- trabalho
 
 ## ⚠️ Lembrar
 
-- [ ] Possível viagem a Dois Vizinhos para um velório
-- [ ] Apoiar Cássio em suas decisões políticas/de imagem
-
-## ❗ Pendências
-
-- [ ] Dar feedback sobre a foto de perfil do Instagram
-- [ ] Considerar se vai ou não ao velório em Dois Vizinhos e avisar Cássio
+- [ ] Potencial patrocínio da Safeeds para o podcast
+- [ ] Acompanhar Cássio em Dois Vizinhos (velório) caso decida ir
 
 ## 📝 Observações
 
-> Cássio parece estar envolvido em licitações (pelo nome do contato).
+> Cássio parece ser uma pessoa expressiva e que valoriza a opinião de João.
 
-> Há uma forte troca de mídias, sugerindo que compartilham momentos do dia a dia.
+> Existe uma dinâmica de brincadeiras e provocações entre os dois.
 
-> A menção ao Tenente Hélio e sua candidatura indica envolvimento em política.
+> A menção a 'licitação' no nome do contato sugere que Cássio pode trabalhar com isso, o que pode ser uma área de interesse para João.
 
-> Cássio busca a aprovação de João em decisões pessoais (foto do perfil).
+> O convite para ir ao 'lago' e a menção a uma 'base' sugere algum tipo de propriedade ou local de encontro que Cássio possui.
 
-> João parece ter um humor peculiar (clonagem do celular).
+> A disposição de Cássio em permitir que João e o pai entrem no lago indica um certo nível de intimidade e confiança.
+
+> A preocupação de João em ir ao velório indica certo nível de proximidade ou consideração por quem faleceu ou por Cássio.
 
 ---
 
-*Última conversa: a day ago*
+*Última conversa: 2 days ago*

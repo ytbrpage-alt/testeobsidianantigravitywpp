@@ -7,38 +7,40 @@ tipo: pessoa
 categoria: familia
 importancia: 10/10
 numero: undefined
-ultima_conversa: 2026-01-11T19:31:25-03:00
+ultima_conversa: 2026-01-12T12:26:54-03:00
 ---
 
 ## 📋 Resumo
 
-Relacionamento familiar forte entre mãe e filho. João se preocupa com o bem-estar da mãe e sente saudade. A mãe compartilha suas aventuras com o filho, mantendo-o informado e presente em sua vida.
+Um relacionamento familiar forte e carinhoso entre mãe e filho. João se preocupa com o bem-estar e a felicidade da mãe, enquanto ela compartilha suas aventuras e demonstra afeto. Há uma forte demonstração de saudade e desejo de proximidade.
 
 ## 🗣️ Como João Age
 
-Carinhoso, preocupado, brincalhão, demonstra saudade e felicidade em vê-la bem.
+Carinhoso, atencioso, preocupado, brincalhão, demonstra saudade e felicidade em vê-la feliz.
 
 ## 💭 Assuntos Frequentes
 
+- trabalho
 - família
+- saúde
 - viagens
 
 ## ⚠️ Lembrar
 
-- [ ] null
-
-## ❗ Pendências
-
-- [ ] Buscar a mãe no hotel de madrugada com o pai.
+- [ ] Datas de retorno da mãe de viagens
+- [ ] Localização exata para buscar a mãe (hotel que ele a levou)
+- [ ] Possíveis compromissos para acompanhá-la em futuras aventuras.
 
 ## 📝 Observações
 
-> João demonstra preocupação com a segurança da mãe em suas aventuras.
+> João demonstra preocupação com a segurança da mãe em suas viagens.
 
-> A mãe compartilha ativamente sua viagem com o filho, enviando fotos e vídeos.
+> Há um forte vínculo emocional e afeto entre eles.
 
-> João sente saudade da mãe e pede para ligar.
+> João incentiva a mãe a compartilhar suas experiências nas redes sociais.
+
+> A mãe se preocupa com o bem estar do filho.
 
 ---
 
-*Última conversa: 18 hours ago*
+*Última conversa: 5 hours ago*

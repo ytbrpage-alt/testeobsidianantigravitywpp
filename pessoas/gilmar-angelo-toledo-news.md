@@ -1,11 +1,11 @@
-# Gilmar Angelo Toledo News 👔
+# Gilmar Angelo Toledo News 👨‍👩‍👧
 
-#pessoa #trabalho
+#pessoa #familia
 
 ---
 tipo: pessoa
-categoria: trabalho
-importancia: 8/10
+categoria: familia
+importancia: 9/10
 numero: undefined
 ultima_conversa: 2026-01-07T16:00:21-03:00
 ---
@@ -16,8 +16,8 @@ João e Gilmar têm um relacionamento profissional onde João fornece conteúdo 
 
 ## 💼 Profissional
 
-- **Profissão:** Não especificada, mas parece ser ligada à mídia/notícias.
-- **Empresa:** Toledo News
+- **Profissão:** Vendas/Comercial
+- **Empresa:** ja
 
 ## 🗣️ Como João Age
 
@@ -26,7 +26,9 @@ Prestativo, colaborativo, busca aprovação, parece querer impressionar e ser ú
 ## 💭 Assuntos Frequentes
 
 - financeiro
+- trabalho
 - viagens
+- música
 
 ## ⚠️ Lembrar
 

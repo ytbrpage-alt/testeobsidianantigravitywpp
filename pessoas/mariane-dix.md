@@ -1,43 +1,44 @@
-# Mariane Dix 👤
+# Mariane Dix ❤️
 
-#pessoa #amigo/romance
+#pessoa #romance
 
 ---
 tipo: pessoa
-categoria: amigo/romance
-importancia: 7/10
+categoria: romance
+importancia: 8/10
 numero: undefined
-ultima_conversa: 2026-01-12T13:55:21-03:00
+ultima_conversa: 2026-01-12T14:07:28-03:00
 ---
 
 ## 📋 Resumo
 
-João e Mariane têm uma relação informal e flertuosa, com um componente sexual evidente. Eles parecem ser amigos íntimos que se sentem à vontade para expressar seus desejos e intenções de forma direta. Há uma dinâmica de convites e disponibilidade, com ambos os lados demonstrando interesse em se encontrar.
+João e Mariane têm um relacionamento com forte componente sexual e romântico. A conversa é aberta sobre encontros e flertes, mas também envolve brincadeiras e um certo nível de intimidade. O fato de Mariane ter um filho(a) adiciona uma camada de complexidade ao relacionamento.
 
 ## 🗣️ Como João Age
 
-João se comporta de forma bem informal, brincalhão, e com flertes. Ele parece ser direto em suas intenções, convidando Mariane para sair e até para transar de forma casual.
+João se comporta de forma carinhosa, brincalhona e com conotação sexual. Ele flerta abertamente e demonstra interesse romântico.
 
 ## ⚠️ Lembrar
 
-- [ ] Mariane geralmente dorme cedo (dificilmente estará online à meia-noite).
-- [ ] Ela tem uma 'neném' (possivelmente um bebê) e isso influencia sua disponibilidade.
-- [ ] Ela está disposta a se encontrar com João de madrugada se ele for até a casa dela.
-- [ ] Ela perguntou sobre dentista na UPA
+- [ ] Combinado das 4h da manhã (27/12, precisa confirmar)
+- [ ] Endereço dela caso precise (embora ela conheça o dele)
+- [ ] Que ela tem um bebê e as visitas precisam ser planejadas em torno disso
 
 ## ❗ Pendências
 
-- [ ] Possivelmente um encontro às 4 da manhã na casa dela.
-- [ ] Averiguar informações sobre dentista na UPA.
+- [ ] Dar aula de português para João (em tom de brincadeira)
+- [ ] Confirmar o encontro das 4 da manhã caso ainda queira
 
 ## 📝 Observações
 
-> A relação parece ter um componente sexual, com ambos os lados expressando interesse em encontros.
+> O relacionamento parece ter um componente físico significativo. A conversa é bem aberta e direta sobre sexo.
 
-> Kamyly parece ser uma amiga de Mariane, talvez ciúmes envolvidos.
+> Mariane tem um filho(a) e isso influencia na dinâmica do relacionamento.
 
-> João parece ter outras opções de encontros (ex: ex-professora de CS), mas demonstra maior interesse em Mariane.
+> A conversa sobre o Uber loira sugere um certo ciúme ou provocação por parte dela.
+
+> A brincadeira com os foguetes para ela encontrar o endereço demonstra um lado brincalhão e divertido na relação.
 
 ---
 
-*Última conversa: 3 minutes ago*
+*Última conversa: 3 hours ago*

@@ -12,11 +12,16 @@ ultima_conversa: 2026-01-09T08:32:57-03:00
 
 ## 📋 Resumo
 
-João está ajudando Fer, uma amiga, com um projeto de software para o negócio dela. Existe uma oportunidade de parceria comercial entre João e a família de Fer, que atuam no ramo hospitalar. João precisa se preparar para uma reunião na segunda-feira para discutir essa parceria.
+João e Fer são amigos e estão desenvolvendo uma relação de negócios. João está ajudando Fer com suas necessidades de programação e ambos estão considerando uma parceria na área da saúde, aproveitando a experiência de João na medicina e o negócio em expansão da família de Fer.
+
+## 💼 Profissional
+
+- **Profissão:** Não especificada, mas parece ter um negócio próprio (venda de produtos)
+- **Empresa:** Não especificada, mas o pai dela está abrindo mais uma cama e um coffee, indicando envolvimento em um negócio de saúde/hospitalar
 
 ## 🗣️ Como João Age
 
-Profissional, prestativo, disposto a ajudar, um pouco informal, demonstra urgência em resolver as coisas.
+Profissional e solícito. Demonstra vontade de ajudar e oferecer soluções. É atencioso e busca entender as necessidades de Fer.
 
 ## 💭 Assuntos Frequentes
 
@@ -24,28 +29,22 @@ Profissional, prestativo, disposto a ajudar, um pouco informal, demonstra urgên
 
 ## ⚠️ Lembrar
 
-- [ ] Reunião na segunda-feira para discutir a parceria comercial.
-- [ ] Necessidade de falar com o pai de Fer sobre a parceria.
-- [ ] Acompanhar o uso e feedback do site/sistema por Fer e sua tia.
-- [ ] Novidades sobre a abertura da cama e coffee.
+- [ ] Reunião na segunda-feira (08/01, assumindo que a conversa é de 30/12)
+- [ ] Necessidades da tia de Fer (relacionado ao site/sistema)
 
 ## ❗ Pendências
 
-- [ ] Acompanhar o funcionamento do site/sistema.
-- [ ] Ajustar o sistema conforme o feedback de Fer.
-- [ ] Reunião com Fer e seu pai para discutir a parceria comercial.
+- [ ] Finalizar o site/sistema de cálculos com as alterações solicitadas
+- [ ] Reunião para discutir a parceria de negócios
+- [ ] Entender as necessidades da tia de Fer
 
 ## 📝 Observações
 
-> Fer está envolvida em um negócio familiar (provavelmente hospitalar).
+> Fer está abrindo um novo negócio (cama e coffee) com o pai, o que indica um momento de expansão e investimento.
 
-> João está atuando fortemente na área da medicina, trabalhando em hospitais.
+> O pai de Fer parece ser um figura importante na tomada de decisões.
 
-> Existe potencial para uma parceria entre João e o negócio da família de Fer.
-
-> A tia de Fer também parece estar envolvida e tem influência no projeto do site/sistema.
-
-> Fer está ocupada cuidando de Isabela, o que pode impactar sua disponibilidade.
+> João está investindo na área da medicina e tem contatos em hospitais, o que pode ser um diferencial para a parceria.
 
 ---
 

@@ -31,4 +31,4 @@ bem-humorado, carinhoso, informal
 
 ---
 
-*Última conversa: 7 days ago*
+*Última conversa: 8 days ago*

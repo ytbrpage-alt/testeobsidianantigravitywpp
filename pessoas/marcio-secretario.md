@@ -1,11 +1,11 @@
-# Márcio Secretario 🏛️
+# Márcio Secretario 🤝
 
-#pessoa #politica
+#pessoa #amigo
 
 ---
 tipo: pessoa
-categoria: politica
-importancia: 8/10
+categoria: amigo
+importancia: 5/10
 numero: undefined
 ultima_conversa: 2026-01-08T13:57:30-03:00
 ---
@@ -16,7 +16,7 @@ João possui um relacionamento profissional com Marcio, que ocupa um cargo de se
 
 ## 💼 Profissional
 
-- **Profissão:** Secretario (presumivelmente)
+- **Profissão:** Tecnologia
 - **Empresa:** Prefeitura
 
 ## 🗣️ Como João Age

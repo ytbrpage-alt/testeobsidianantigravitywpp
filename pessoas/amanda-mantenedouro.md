@@ -1,27 +1,19 @@
-# Amanda (Mantenedouro) ❤️
+# Amanda (Mantenedouro) 👤
 
-#pessoa #romance
+#pessoa #geral
 
 ---
 tipo: pessoa
-categoria: romance
-importancia: 7/10
+categoria: geral
+importancia: 5/10
 numero: undefined
-ultima_conversa: 2026-01-04T22:32:27-03:00
+ultima_conversa: 2025-10-28T14:25:48-03:00
 ---
-
-## 📋 Resumo
-
-relacionamento amoroso
 
 ## 🗣️ Como João Age
 
-bem-humorado
-
-## 💭 Assuntos Frequentes
-
-- trabalho
+neutro
 
 ---
 
-*Última conversa: 8 days ago*
+*Última conversa: 2 months ago*

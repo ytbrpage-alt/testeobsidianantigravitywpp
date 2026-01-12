@@ -1,11 +1,11 @@
-# Julya Maciel 🤝
+# Julya Maciel 👨‍👩‍👧
 
-#pessoa #amigo
+#pessoa #familia
 
 ---
 tipo: pessoa
-categoria: amigo
-importancia: 6/10
+categoria: familia
+importancia: 10/10
 numero: undefined
 ultima_conversa: 2026-01-12T13:39:59-03:00
 ---
@@ -13,6 +13,11 @@ ultima_conversa: 2026-01-12T13:39:59-03:00
 ## 📋 Resumo
 
 Amizade com tom brincalhão e uso frequente de memes, marcada por momentos de proximidade e outros de tensão. Parecem ter uma dinâmica onde a espontaneidade e a linguagem forte são comuns. Julya pode ser uma companhia importante para João, especialmente em momentos difíceis.
+
+## 💼 Profissional
+
+- **Profissão:** Tecnologia
+- **Empresa:** com
 
 ## 🗣️ Como João Age
 
@@ -37,4 +42,4 @@ brincalhão, às vezes rude (xinga), convidativo (para sair e 'f1'), aberto sobr
 
 ---
 
-*Última conversa: 18 minutes ago*
+*Última conversa: 4 hours ago*

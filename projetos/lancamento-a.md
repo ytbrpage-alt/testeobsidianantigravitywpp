@@ -10,7 +10,7 @@ criado: 2026-01-12
 
 ## 👥 Pessoas Envolvidas
 
-- [[55-45-9900-0869|+55 45 9900-0869]] - Não especificada, mas parece estar envolvido com marketing/negócios e desenvolvimento de software (Python)
+- [[55-45-9900-0869|+55 45 9900-0869]] - Tecnologia
 
 ## 📋 Notas
 

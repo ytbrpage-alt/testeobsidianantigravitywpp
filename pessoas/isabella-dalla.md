@@ -1,46 +1,48 @@
-# Isabella Dalla 🤝
+# Isabella Dalla ❤️
 
-#pessoa #amigo
+#pessoa #romance
 
 ---
 tipo: pessoa
-categoria: amigo
-importancia: 8/10
+categoria: romance
+importancia: 9/10
 numero: undefined
 ultima_conversa: 2026-01-09T09:26:09-03:00
 ---
 
 ## 📋 Resumo
 
-Isabella é uma amiga próxima e importante para João. Ela o apoia em seus projetos, se preocupa com seu bem-estar e parece ter conexões valiosas. João confia em Isabella e valoriza sua opinião e ajuda.
+João e Isabella possuem uma amizade próxima e de apoio mútuo. Isabella desempenha um papel de suporte e conselheira para João, enquanto ele se preocupa com o bem-estar dela e oferece ajuda quando necessário. A relação parece ser construída em confiança e afeto, com uma dinâmica de troca constante de favores e palavras de incentivo.
+
+## 💼 Profissional
+
+- **Profissão:** Tecnologia
 
 ## 🗣️ Como João Age
 
-Carinhoso, atencioso, preocupado, às vezes dependente da ajuda dela, aberto sobre seus erros e inseguranças, demonstra gratidão.
+Carinhoso, atencioso, prestativo, preocupado, aberto sobre seus erros e sentimentos, pede desculpas quando necessário. Parece haver um certo nível de dependência emocional e necessidade de aprovação.
 
 ## 💭 Assuntos Frequentes
 
 - financeiro
 - saúde
+- viagens
 
 ## ⚠️ Lembrar
 
-- [ ] null
-
-## ❗ Pendências
-
-- [ ] Possivelmente enviar alguma doação para Isabella
-- [ ] Apresentar Isabella para Déia (Daia)
+- [ ] Nota fiscal do banner (resolvido)
+- [ ] Contato da Daia (agência)
+- [ ] Viagens para Brasília
 
 ## 📝 Observações
 
-> A relação parece ser de amizade com um toque de afeto/carinho de ambos os lados.
+> João demonstra insegurança e precisa de confirmação/aprovação de Isabella em algumas situações.
 
-> João demonstra vulnerabilidade e compartilha suas inseguranças com Isabella, o que indica um nível de confiança alto.
+> Isabella parece ter um papel de apoio e conselheira na vida de João.
 
-> Isabella está envolvida em projetos/causas que João apoia.
+> Há uma dinâmica de ajuda mútua, com João oferecendo apoio financeiro e Isabella oferecendo apoio emocional e prático.
 
-> João valoriza a opinião e o apoio de Isabella.
+> O uso de apelidos carinhosos sugere um forte laço afetivo, mas não necessariamente romântico.
 
 ---
 

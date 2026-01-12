@@ -1,10 +1,10 @@
-# Gustavo Rodrigues 👤
+# Gustavo Rodrigues 💼
 
-#pessoa #amigo|negocio|trabalho
+#pessoa #negocio
 
 ---
 tipo: pessoa
-categoria: amigo|negocio|trabalho
+categoria: negocio
 importancia: 8/10
 numero: undefined
 ultima_conversa: 2026-01-12T13:39:50-03:00
@@ -16,8 +16,8 @@ Gustavo é um amigo próximo e parceiro de trabalho de João. Eles compartilham 
 
 ## 💼 Profissional
 
-- **Profissão:** Enfermeiro (mencionado indiretamente)
-- **Empresa:** Aiqfome (João está trabalhando com eles)
+- **Profissão:** Tecnologia
+- **Empresa:** mesmo
 
 ## 🗣️ Como João Age
 
@@ -48,4 +48,4 @@ Brincalhão, colaborativo, parece haver confiança e parceria, compartilha infor
 
 ---
 
-*Última conversa: 18 minutes ago*
+*Última conversa: 4 hours ago*

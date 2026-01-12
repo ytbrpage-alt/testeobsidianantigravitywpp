@@ -1,58 +1,59 @@
-# Smile 💼
+# Smile 👔
 
-#pessoa #negocio
+#pessoa #trabalho
 
 ---
 tipo: pessoa
-categoria: negocio
-importancia: 9/10
+categoria: trabalho
+importancia: 8/10
 numero: undefined
-ultima_conversa: 2026-01-12T13:56:17-03:00
+ultima_conversa: 2026-01-12T13:56:25-03:00
 ---
 
 ## 📋 Resumo
 
-João e Smile possuem uma parceria de negócios forte e colaborativa, focada em marketing digital e crescimento empresarial. Existe uma grande confiança mútua e admiração profissional, sendo Smile um conselheiro importante para João nas estratégias de marketing e tecnologia.
+João e Smile têm um relacionamento profissional forte e colaborativo, focado em marketing digital e tráfego pago. Smile é um especialista valioso para João, e eles trabalham juntos em vários projetos, incluindo um relacionado ao aiqfome. Há uma dinâmica de confiança e troca de informações constante entre eles.
 
 ## 💼 Profissional
 
-- **Profissão:** Marketing/Tráfego (deduzido pela conversa)
+- **Profissão:** Especialista em tráfego (mencionado)
+- **Empresa:** aiqfome (mencionado como algo que precisam ver)
 
 ## 🗣️ Como João Age
 
-Colaborativo, compartilha informações, pede opiniões e confia no julgamento de Smile. Parece valorizar a expertise de Smile.
+João se comporta de forma colaborativa e direta, compartilhando informações, pedindo ajuda e dando instruções. Ele parece confiar na expertise de Smile e o envolve em projetos.
 
 ## 💭 Assuntos Frequentes
 
+- financeiro
 - trabalho
+- família
 - saúde
+- viagens
 - música
 
 ## ⚠️ Lembrar
 
-- [ ] Call para discutir o esquema do AIQFome (tráfego, etc.)
+- [ ] Call para ver esquema do aiqfome (tráfego, etc.)
+- [ ] Acompanhar o andamento do projeto de tráfego
 
 ## ❗ Pendências
 
-- [ ] Discutir AIQFome com Smile
-- [ ] Subir campanha (tarefa de Smile)
+- [ ] Definir o esquema de tráfego para o aiqfome
+- [ ] Acompanhar o desempenho das campanhas
 
 ## 📝 Observações
 
-> João confia na opinião de Smile e o considera um parceiro valioso.
+> A conversa sugere que João e Smile estão trabalhando em vários projetos simultaneamente.
 
-> Smile parece ter um papel importante nas decisões de marketing e tráfego.
+> Há um terceiro indivíduo envolvido, possivelmente um cliente ou parceiro, que eles estão tentando 'fazer abrir o jogo'.
 
-> João compartilhou mídias e estratégias com Smile para obter feedback.
+> Jeciely é uma linguista que aparentemente está ajudando em algo relacionado a análise de dados ou comunicação.
 
-> Smile está envolvido em integrar uma loja.
+> A troca de mídias é constante, o que indica que eles compartilham informações visuais e conteúdos relevantes para o trabalho.
 
-> Existe uma reunião para demitir alguém (mão).
-
-> João e Smile estão trabalhando em algo que envolve 'foistico' e fotos online (possível projeto/empresa/produto).
-
-> João pediu a opinião de Jeciely (linguista) sobre algo relacionado ao projeto.
+> João parece valorizar a opinião e as habilidades de Smile, consultando-o em diversas questões.
 
 ---
 
-*Última conversa: 2 minutes ago*
+*Última conversa: 3 hours ago*

@@ -1,11 +1,11 @@
-# Gabriel Oliveira 💼
+# Gabriel Oliveira 👨‍👩‍👧
 
-#pessoa #negocio
+#pessoa #familia
 
 ---
 tipo: pessoa
-categoria: negocio
-importancia: 7/10
+categoria: familia
+importancia: 9/10
 numero: undefined
 ultima_conversa: 2026-01-10T12:39:02-03:00
 ---
@@ -17,6 +17,7 @@ Relação de compra e venda de produtos, onde João é o cliente e Gabriel o for
 ## 💼 Profissional
 
 - **Profissão:** Possivelmente vendedor/fornecedor de produtos relacionados à cannabis
+- **Empresa:** um
 
 ## 🗣️ Como João Age
 

@@ -5,7 +5,7 @@
 ---
 tipo: pessoa
 categoria: familia
-importancia: 10/10
+importancia: 9/10
 numero: undefined
 ultima_conversa: 2026-01-11T07:34:46-03:00
 ---
@@ -14,12 +14,18 @@ ultima_conversa: 2026-01-11T07:34:46-03:00
 
 Um relacionamento familiar multifacetado, onde pai e filho compartilham laços afetivos e responsabilidades profissionais. Há uma dinâmica de liderança por parte do pai e busca por aprovação por parte de João, com o trabalho e a resolução de problemas sendo temas centrais.
 
+## 💼 Profissional
+
+- **Profissão:** Tecnologia
+- **Empresa:** operacionalmente
+
 ## 🗣️ Como João Age
 
 Respeitoso, solícito, atencioso e busca aprovação/validação. Demonstra certa dependência e preocupação em resolver problemas e cumprir prazos. Às vezes informal, mas geralmente alinhado com o tom do pai.
 
 ## 💭 Assuntos Frequentes
 
+- financeiro
 - trabalho
 - saúde
 

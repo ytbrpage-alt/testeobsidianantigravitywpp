@@ -1,10 +1,10 @@
-# Dr Luma 👔
+# Dr Luma 💼
 
-#pessoa #trabalho
+#pessoa #negocio
 
 ---
 tipo: pessoa
-categoria: trabalho
+categoria: negocio
 importancia: 9/10
 numero: undefined
 ultima_conversa: 2026-01-09T13:06:23-03:00
@@ -12,16 +12,16 @@ ultima_conversa: 2026-01-09T13:06:23-03:00
 
 ## 📋 Resumo
 
-João e Dra. Luma possuem um relacionamento profissional forte e colaborativo. Luma atua como conselheira e facilitadora para João, oferecendo insights valiosos e contatos estratégicos. A relação é marcada pela confiança, troca de informações e um objetivo comum de melhorar a saúde pública.
+João e Dra. Luma possuem uma relação profissional forte e colaborativa. Ela atua como conselheira e parceira estratégica nos projetos de João, principalmente na área da saúde, demonstrando conhecimento e influência em sua rede de contatos. Há uma dinâmica de respeito e confiança mútua.
 
 ## 💼 Profissional
 
-- **Profissão:** Médica (provavelmente)
+- **Profissão:** Médica (presumido)
 - **Empresa:** HOESP (Hospital Oeste do Paraná)
 
 ## 🗣️ Como João Age
 
-Profissional, solicita conselhos e informações, demonstra gratidão, informa sobre seus compromissos e atividades.
+Respeitoso, colaborativo, pede conselhos, compartilha atualizações de trabalho e projetos, mostra gratidão.
 
 ## 💭 Assuntos Frequentes
 
@@ -30,31 +30,26 @@ Profissional, solicita conselhos e informações, demonstra gratidão, informa s
 
 ## ⚠️ Lembrar
 
-- [ ] Agendamento com a Secretaria de Saúde (8:30h)
-- [ ] Horário com a Flexicel
-- [ ] Reunião com o secretário
-- [ ] Produção dos jalequinhos
-- [ ] Implementação do evento no lago
-- [ ] Chegada de Fernando
+- [ ] Horários combinados (reunião com a secretaria de saúde e Flexicel)
+- [ ] Avisar Dr. Luma quando estiver livre para encaixá-la na agenda
+- [ ] Enviar o planejamento do evento no lago
+- [ ] Manter Dr. Luma informada sobre o andamento dos projetos
+- [ ] Possível encontro com Fernando
 
 ## ❗ Pendências
 
-- [ ] Avisar o secretário sobre o horário livre
-- [ ] Mandar fotos/documentos para Luma sobre o evento no lago
-- [ ] Definir a questão dos jalequinhos (quem paga, como serão distribuídos)
-- [ ] Resolver a situação de Henrique
+- [ ] Enviar o planejamento do evento no lago para a Dr. Luma
+- [ ] Avisá-la sobre a hora livre para reunião.
 
 ## 📝 Observações
 
-> Luma tem bons contatos dentro do HOESP e da prefeitura.
+> Dr. Luma tem contatos importantes dentro do HOESP (Bruna Longo, Juliana) e da prefeitura.
 
-> Ela parece ter um bom conhecimento sobre a dinâmica interna do HOESP (ex: conhecimento sobre Bruna Longo e Juliana).
+> Ela tem experiência em gestão e oferece insights valiosos sobre como motivar funcionários e promover projetos.
 
-> Luma tem um papel consultivo e estratégico nos projetos de João.
+> A conversa sugere que João confia na opinião e no conhecimento de Dr. Luma.
 
-> Ela é proativa em oferecer ajuda e ideias.
-
-> João confia na opinião de Luma e busca seu conselho.
+> A menção de Henrique indica uma possível pendência ou assunto a ser resolvido.
 
 ---
 

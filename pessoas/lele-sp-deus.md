@@ -1,11 +1,11 @@
-# lele Sp Deus 🤝
+# lele Sp Deus 👨‍👩‍👧
 
-#pessoa #amigo
+#pessoa #familia
 
 ---
 tipo: pessoa
-categoria: amigo
-importancia: 6/10
+categoria: familia
+importancia: 7/10
 numero: undefined
 ultima_conversa: 2026-01-09T09:05:00-03:00
 ---

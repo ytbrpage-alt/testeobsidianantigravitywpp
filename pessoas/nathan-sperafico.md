@@ -1,10 +1,10 @@
-# Nathan Sperafico 👤
+# Nathan Sperafico 👨‍👩‍👧
 
-#pessoa #amigo|negocio|politica
+#pessoa #familia
 
 ---
 tipo: pessoa
-categoria: amigo|negocio|politica
+categoria: familia
 importancia: 8/10
 numero: undefined
 ultima_conversa: 2026-01-07T18:14:19-03:00
@@ -13,6 +13,11 @@ ultima_conversa: 2026-01-07T18:14:19-03:00
 ## 📋 Resumo
 
 João e Nathan são amigos com interesses em comum em negócios e política. João valoriza a opinião e os contatos de Nathan, buscando conselhos e parcerias. Nathan se mostra solícito e disposto a ajudar João em seus empreendimentos.
+
+## 💼 Profissional
+
+- **Profissão:** Político/Assessor
+- **Empresa:** rodando
 
 ## 🗣️ Como João Age
 
